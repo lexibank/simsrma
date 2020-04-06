@@ -8,8 +8,15 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Diachrony of Tone in Rma",
+    "dc:title": "Diachrony of Tone in Proto-Rma",
+    "dcat:accessURL": "https://github.com/lexibank/simsrma",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/simsrma",
+            "dc:created": "c117741"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -47,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1055,
+            "dc:extent": 1056,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +255,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 1055,
+            "dc:extent": 1056,
             "tableSchema": {
                 "columns": [
                     {

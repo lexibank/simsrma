@@ -11,7 +11,7 @@ for line in data[1:]:
         if header[i].endswith('_gloss'):
             gloss = strip_chars(
                     '⁰¹²³⁴⁵⁶⁷⁸⁹ᴴᴿ', entry)
-            if gloss.strip() not in ['']:
+            if gloss.strip() not in ['', 'NA']:
                 concepts[gloss] += [(header[i][:-6], entry)]
 with open('../etc/concepts.tsv', 'w') as f:
     f.write('NUMBER\tENGLISH\tVARIANTS\tLANGUAGES\n')
