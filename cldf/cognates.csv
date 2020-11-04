@@ -293,7 +293,7 @@ Mianchi-147_peopleclan-1-1,Mianchi-147_peopleclan-1,mà,52,false,expert,Sims202
 Yonghe-147_peopleclan-1-1,Yonghe-147_peopleclan-1,mə̌ʴ,52,false,expert,Sims2020,,,,
 Taoping-145_patchv-1-1,Taoping-145_patchv-1,χpe³³,121,false,expert,Sims2020,,,,#2548
 Longxi-144_patchn-1-1,Longxi-144_patchn-1,pà qó,121,false,expert,Sims2020,,,,#2548
-Mianchi-143_patchn-1-1,Mianchi-143_patchn-1,pɛ ̀tʂʰì,121,false,expert,Sims2020,,,,#2548
+Mianchi-143_patchn-1-1,Mianchi-143_patchn-1,pɛ_tʂʰì,121,false,expert,Sims2020,,,,#2548
 Niuwozi-145_patchv-1-1,Niuwozi-145_patchv-1,pʰeᴿ,121,false,expert,Sims2020,,,,#2548
 Dayang-145_patchv-1-1,Dayang-145_patchv-1,ɸpʰyě,121,false,expert,Sims2020,,,,#2548
 Taoba-145_patchv-1-1,Taoba-145_patchv-1,xə³⁵ pʰiɛ³⁵,121,false,expert,Sims2020,,,,#2548
@@ -494,7 +494,7 @@ Niuwozi-85_hair-1-1,Niuwozi-85_hair-1,khʉᴴ mãᴸ,127,false,expert,Sims2020,,
 Taoba-85_hair-1-1,Taoba-85_hair-1,ma⁵⁵,127,false,expert,Sims2020,,,,
 Qinghua-85_hair-1-1,Qinghua-85_hair-1,ma⁵⁵,127,false,expert,Sims2020,,,,
 Lanping-85_hair-1-1,Lanping-85_hair-1,ma⁵⁵,127,false,expert,Sims2020,,,,
-Jiulong-90_headhair-1-1,Jiulong-90_headhair-1,"mã³⁵, mɛ̃i³⁵, qʰuo¹¹ mɛi³⁵",127,false,expert,Sims2020,,,,
+Jiulong-90_headhair-1-1,Jiulong-90_headhair-1,mã³⁵,127,false,expert,Sims2020,,,,
 Taoping-78_gnaw-1-1,Taoping-78_gnaw-1,χɢɑ²⁴¹,30,false,expert,Sims2020,,,,#5641
 Longxi-78_gnaw-1-1,Longxi-78_gnaw-1,ʁà ɕà,30,false,expert,Sims2020,,,,#5641
 Yonghe-78_gnaw-1-1,Yonghe-78_gnaw-1,gɑ̀ʴ ɬɛ́,30,false,expert,Sims2020,,,,#5641
@@ -666,7 +666,7 @@ Taoping-25_cavemountain-1-1,Taoping-25_cavemountain-1,ʐɑ³³ pu³³,162,false,
 Yonghe-24_cave-1-1,Yonghe-24_cave-1,ɦɑ̀ pú,162,false,expert,Sims2020,,,,
 Jiulong-24_cave-1-1,Jiulong-24_cave-1,ʐə¹¹ pu⁵⁵,162,false,expert,Sims2020,,,,
 Taoping-23_cat-1-1,Taoping-23_cat-1,ma³¹ ȵy⁵⁵,22,false,expert,Sims2020,,,,
-Longxi-23_cat-1-1,Longxi-23_cat-1,má{ȵú} mé{ȵòu},22,false,expert,Sims2020,,,,
+Longxi-23_cat-1-1,Longxi-23_cat-1,máȵú,22,false,expert,Sims2020,,,,
 Yonghe-23_cat-1-1,Yonghe-23_cat-1,mæ̀ ȵwí,22,false,expert,Sims2020,,,,
 Niuwozi-23_cat-1-1,Niuwozi-23_cat-1,mɜᴸ tsɨᴿ,22,false,expert,Sims2020,,,,
 Taoba-23_cat-1-1,Taoba-23_cat-1,mɐ³⁵ tsə⁵⁵,22,false,expert,Sims2020,,,,
@@ -863,7 +863,7 @@ Qinghua-105_leaf-1-1,Qinghua-105_leaf-1,sɐ¹³ fpɑ⁵⁵,65,false,expert,Sims2
 Lanping-105_leaf-1-1,Lanping-105_leaf-1,sɐ¹³,65,false,expert,Sims2020,,,,
 Jiulong-105_leaf-1-1,Jiulong-105_leaf-1,pɑ⁵⁵,65,false,expert,Sims2020,,,,
 Niuwozi-230_untie-1-1,Niuwozi-230_untie-1,pʰʴəᴴ,66,false,expert,Sims2020,,,,#5646
-Jiulong-220_throwout-1-1,Jiulong-220_throwout-1,"nə¹¹ pʰə⁵⁵, nɑ¹¹ pʰɑ⁵⁵",67,false,expert,Sims2020,,,,#5556
+Jiulong-220_throwout-1-1,Jiulong-220_throwout-1,nə¹¹_pʰə⁵⁵,67,false,expert,Sims2020,,,,#5556
 Wadu-212_sun-1-1,Wadu-212_sun-1,bʉ́,68,false,expert,Sims2020,,,,
 Niuwozi-212_sun-1-1,Niuwozi-212_sun-1,bɨᴴ,68,false,expert,Sims2020,,,,
 Taoba-212_sun-1-1,Taoba-212_sun-1,bʉ⁵³,68,false,expert,Sims2020,,,,
@@ -894,7 +894,7 @@ Dayang-14_blow-1-1,Dayang-14_blow-1,m̥ə̃̌,77,false,expert,Sims2020,,,,
 Taoba-14_blow-1-1,Taoba-14_blow-1,xə³⁵ m̥ə³⁵,77,false,expert,Sims2020,,,,
 Lanping-14_blow-2-1,Lanping-14_blow-2,kʰə¹³ m̥ə¹³,77,false,expert,Sims2020,,,,
 Jiulong-14_blow-1-1,Jiulong-14_blow-1,to³⁵,77,false,expert,Sims2020,,,,
-Dayang-214_tail-1-1,Dayang-214_tail-1,{mə́} ɬyé,78,false,expert,Sims2020,,,,#3560
+Dayang-214_tail-1-1,Dayang-214_tail-1,mə́_ɬyé,78,false,expert,Sims2020,,,,#3560
 Taoba-214_tail-1-1,Taoba-214_tail-1,mɐ̃³⁵ ɬio⁵³,78,false,expert,Sims2020,,,,#3560
 Qinghua-214_tail-1-1,Qinghua-214_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
 Lanping-214_tail-1-1,Lanping-214_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
@@ -904,7 +904,7 @@ Taoba-177_shoe-1-1,Taoba-177_shoe-1,tɕyi³⁵,80,false,expert,Sims2020,,,,
 Qinghua-177_shoe-1-1,Qinghua-177_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
 Lanping-177_shoe-1-1,Lanping-177_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
 Jiulong-177_shoe-1-1,Jiulong-177_shoe-1,tsui³⁵,80,false,expert,Sims2020,,,,
-Dayang-101_joint-1-1,Dayang-101_joint-1,tɐ-tsɛ̌j / tsǎ,81,false,expert,Sims2020,,,,#0418
+Dayang-101_joint-1-1,Dayang-101_joint-1,tɐ-tsɛ̌j,81,false,expert,Sims2020,,,,#0418
 Lanping-101_joint-1-1,Lanping-101_joint-1,tsi⁵⁵,81,false,expert,Sims2020,,,,#0418
 Jiulong-101_joint-1-1,Jiulong-101_joint-1,tsɛi³⁵,81,false,expert,Sims2020,,,,#0418
 Niuwozi-63_feed-1-1,Niuwozi-63_feed-1,ʈʂʰeᴿ,82,false,expert,Sims2020,,,,#3586

@@ -1,4 +1,4 @@
-# Diachrony of Tone in Proto-Rma
+# CLDF dataset derived from Sims' "Diachrony of Tone in Proto-Rma" from 2020
 
 Cite the source dataset as
 
@@ -12,11 +12,11 @@ Available online at http://hdl.handle.net/10524/52460
 
 
 [![Build Status](https://travis-ci.org/lexibank/simsrma.svg?branch=master)](https://travis-ci.org/lexibank/simsrma)
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
-![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 11
 - **Concepts:** 235
@@ -26,6 +26,6 @@ Available online at http://hdl.handle.net/10524/52460
 - **Cognacy:** 1,056 cognates in 185 cognate sets (15 singletons)
 - **Cognate Diversity:** -0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 3,838
-- **Segments:** 248 (81 BIPA errors, 81 CTLS sound class errors, 167 CLTS modified)
-- **Inventory size (avg):** 65.91
+- **Tokens:** 4,489
+- **Segments:** 180 (0 BIPA errors, 0 CTLS sound class errors, 180 CLTS modified)
+- **Inventory size (avg):** 63.18

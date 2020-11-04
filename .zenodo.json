@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from Sims' \"Diachrony of Tone in Proto-Rma\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Sims, Nathanial A. (2020): Reconsidering the diachrony of tone in Rma. Journal of the Southeast Asian Linguistics Society 13.1. 53-85.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
