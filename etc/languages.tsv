@@ -1,13 +1,13 @@
-ID	Name
-Taoping	Taoping
-Longxi	Longxi
-Mianchi	Mianchi
-Yonghe	Yonghe
-Wadu	Wadu
-Niuwozi	Niuwozi
-Dayang	Dayang
-Taoba	Taoba
-Qinghua	Qinghua
-Lanping	Lanping
-Jiulong	Jiulong
-Tangut	Tangut
+ID	Name	Glottocode
+Taoping	Taoping	taop1238
+Longxi	Longxi	long1374
+Mianchi	Mianchi	mian1253
+Yonghe	Yonghe	yong1287
+Wadu	Wadu	nort2723
+Niuwozi	Niuwozi	sout2729
+Dayang	Dayang	daya1246
+Taoba	Taoba	taob1239
+Qinghua	Qinghua	qing1238
+Lanping	Lanping	sout2729
+Jiulong	Jiulong	sout2729
+Tangut	Tangut	tang1334
