@@ -1,335 +1,334 @@
 ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Alignment_Method,Alignment_Source,STEDT
-Taoping-254_year-1-1,Taoping-254_year-1,pə³³,118,false,expert,Sims2020,,,,
-Longxi-254_year-1-1,Longxi-254_year-1,pù,118,false,expert,Sims2020,,,,
-Mianchi-254_year-1-1,Mianchi-254_year-1,pù,118,false,expert,Sims2020,,,,
-Yonghe-136_oneyear-1-1,Yonghe-136_oneyear-1,ə́-pù,118,false,expert,Sims2020,,,,
-Wadu-254_year-1-1,Wadu-254_year-1,pʉ̀,118,false,expert,Sims2020,,,,
-Dayang-254_year-1-1,Dayang-254_year-1,pɨ̀,118,false,expert,Sims2020,,,,
-Taoba-254_year-1-1,Taoba-254_year-1,pu⁵³,118,false,expert,Sims2020,,,,
-Qinghua-254_year-1-1,Qinghua-254_year-1,pə¹³,118,false,expert,Sims2020,,,,
-Lanping-254_year-1-1,Lanping-254_year-1,pə¹³,118,false,expert,Sims2020,,,,
-Jiulong-254_year-1-1,Jiulong-254_year-1,pi⁵³,118,false,expert,Sims2020,,,,
-Taoping-248_who-1-1,Taoping-248_who-1,sɨ⁵⁵,108,false,expert,Sims2020,,,,#5632
-Longxi-248_who-1-1,Longxi-248_who-1,sɨ́,108,false,expert,Sims2020,,,,#5632
-Mianchi-248_who-1-1,Mianchi-248_who-1,ʂí lè,108,false,expert,Sims2020,,,,#5632
-Yonghe-248_who-1-1,Yonghe-248_who-1,sɨ́,108,false,expert,Sims2020,,,,#5632
-Wadu-248_who-1-1,Wadu-248_who-1,hĩ̂,108,false,expert,Sims2020,,,,#5632
-Niuwozi-248_who-1-1,Niuwozi-248_who-1,xɜᴴ,108,false,expert,Sims2020,,,,#5632
-Taoba-248_who-1-1,Taoba-248_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
-Qinghua-248_who-1-1,Qinghua-248_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
-Lanping-248_who-1-1,Lanping-248_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
-Taoping-247_white-1-1,Taoping-247_white-1,pʐi⁵⁵,183,false,expert,Sims2020,,,,#3608
-Longxi-247_white-1-1,Longxi-247_white-1,pʰé,183,false,expert,Sims2020,,,,#3608
-Mianchi-247_white-1-1,Mianchi-247_white-1,pʂí,183,false,expert,Sims2020,,,,#3608
-Yonghe-247_white-1-1,Yonghe-247_white-1,pʰjí,183,false,expert,Sims2020,,,,#3608
-Wadu-247_white-1-1,Wadu-247_white-1,ʈʰṍ,183,false,expert,Sims2020,,,,#3608
-Niuwozi-247_white-1-1,Niuwozi-247_white-1,pʰʴĩᴴ,183,false,expert,Sims2020,,,,#3608
-Dayang-247_white-1-1,Dayang-247_white-1,pʰʂẽ́,183,false,expert,Sims2020,,,,#3608
-Taoba-247_white-1-1,Taoba-247_white-1,pʰʐã⁵⁵ mə⁵³,183,false,expert,Sims2020,,,,#3608
-Qinghua-247_white-1-1,Qinghua-247_white-1,pʰʐə̃⁵⁵,183,false,expert,Sims2020,,,,#3608
-Lanping-247_white-1-1,Lanping-247_white-1,pʰʂə̃⁵⁵,183,false,expert,Sims2020,,,,#3608
-Jiulong-247_white-1-1,Jiulong-247_white-1,pʰʐĩ⁵⁵ lø⁵⁵ lø¹¹,183,false,expert,Sims2020,,,,#3608
-Taoping-243_weigh-1-1,Taoping-243_weigh-1,tɕʰe⁵⁵,95,false,expert,Sims2020,,,,#2312
-Longxi-246_weightgrain-1-1,Longxi-246_weightgrain-1,tɕʰì tɕʰí,95,false,expert,Sims2020,,,,#2312
-Mianchi-245_weighgrain-1-1,Mianchi-245_weighgrain-1,tɕʰé,95,false,expert,Sims2020,,,,#2312
-Taoba-243_weigh-1-1,Taoba-243_weigh-1,tə⁵⁵ tɕɛ⁵³,95,false,expert,Sims2020,,,,#2312
-Lanping-244_weighfood-1-1,Lanping-244_weighfood-1,tə⁵⁵ tɕi⁵⁵,95,false,expert,Sims2020,,,,#2312
-Jiulong-244_weighfood-1-1,Jiulong-244_weighfood-1,tɯ⁵⁵ ke⁵⁵,95,false,expert,Sims2020,,,,#2312
-Taoping-242_weep-1-1,Taoping-242_weep-1,ŋə⁵⁵,104,false,expert,Sims2020,,,,#1104
-Longxi-242_weep-1-1,Longxi-242_weep-1,ŋú,104,false,expert,Sims2020,,,,#1104
-Wadu-242_weep-1-1,Wadu-242_weep-1,qwé,104,false,expert,Sims2020,,,,#1104
-Niuwozi-242_weep-1-1,Niuwozi-242_weep-1,kwɜjᴴ,104,false,expert,Sims2020,,,,#1104
-Taoba-242_weep-1-1,Taoba-242_weep-1,xue⁵⁵,104,false,expert,Sims2020,,,,#1104
-Qinghua-242_weep-1-1,Qinghua-242_weep-1,squa⁵⁵,104,false,expert,Sims2020,,,,#1104
-Lanping-242_weep-1-1,Lanping-242_weep-1,χquɑ⁵⁵,104,false,expert,Sims2020,,,,#1104
-Jiulong-242_weep-1-1,Jiulong-242_weep-1,kuɛ⁵⁵,104,false,expert,Sims2020,,,,#1104
-Taoping-241_weave-1-1,Taoping-241_weave-1,tia³³,150,false,expert,Sims2020,,,,#2686
-Longxi-241_weave-1-1,Longxi-241_weave-1,tɕà,150,false,expert,Sims2020,,,,#2686
-Mianchi-241_weave-1-1,Mianchi-241_weave-1,tià,150,false,expert,Sims2020,,,,#2686
-Yonghe-241_weave-1-1,Yonghe-241_weave-1,tæ̌,150,false,expert,Sims2020,,,,#2686
-Wadu-241_weave-1-1,Wadu-241_weave-1,tɕæ̌,150,false,expert,Sims2020,,,,#2686
-Dayang-241_weave-1-1,Dayang-241_weave-1,tʂɒ̌,150,false,expert,Sims2020,,,,#2686
-Taoba-241_weave-1-1,Taoba-241_weave-1,nə³⁵ tɕɛ³⁵,150,false,expert,Sims2020,,,,#2686
-Lanping-241_weave-1-1,Lanping-241_weave-1,tʃɑ¹³,150,false,expert,Sims2020,,,,#2686
-Taoping-233_urine-1-1,Taoping-233_urine-1,bie²⁴¹,186,false,expert,Sims2020,,,,
-Longxi-233_urine-1-1,Longxi-233_urine-1,bí,186,false,expert,Sims2020,,,,
-Mianchi-233_urine-1-1,Mianchi-233_urine-1,biě,186,false,expert,Sims2020,,,,
-Yonghe-232_urinate-1-1,Yonghe-232_urinate-1,bɨ́,186,false,expert,Sims2020,,,,
-Wadu-233_urine-1-1,Wadu-233_urine-1,bĩ̂,186,false,expert,Sims2020,,,,
-Niuwozi-233_urine-1-1,Niuwozi-233_urine-1,biẽᶠ,186,false,expert,Sims2020,,,,
-Dayang-233_urine-1-1,Dayang-233_urine-1,βbĩ́,186,false,expert,Sims2020,,,,
-Taoping-228_tree-1-1,Taoping-228_tree-1,pʰo⁵⁵,91,false,expert,Sims2020,,,,
-Longxi-228_tree-1-1,Longxi-228_tree-1,ɕì pʰù,91,false,expert,Sims2020,,,,
-Mianchi-228_tree-1-1,Mianchi-228_tree-1,pʰò,91,false,expert,Sims2020,,,,
-Yonghe-228_tree-1-1,Yonghe-228_tree-1,pʰú,91,false,expert,Sims2020,,,,
-Wadu-228_tree-1-1,Wadu-228_tree-1,bóŋ,91,false,expert,Sims2020,,,,
-Qinghua-228_tree-1-1,Qinghua-228_tree-1,siɛ̃¹³ sbõ⁵⁵,91,false,expert,Sims2020,,,,
-Lanping-228_tree-1-1,Lanping-228_tree-1,siɛ̃¹³ vbõ⁵⁵,91,false,expert,Sims2020,,,,
-Jiulong-228_tree-1-1,Jiulong-228_tree-1,sẽ¹¹ bũ⁵⁵,91,false,expert,Sims2020,,,,
-Taoping-227_tread-1-1,Taoping-227_tread-1,tɕʰya³¹,31,false,expert,Sims2020,,,,
-Longxi-227_tread-1-1,Longxi-227_tread-1,tɕʰuà ȵí,31,false,expert,Sims2020,,,,
-Mianchi-227_tread-1-1,Mianchi-227_tread-1,tɕʰyà,31,false,expert,Sims2020,,,,
-Yonghe-227_tread-1-1,Yonghe-227_tread-1,tsʰwæ̀ ȵwí,31,false,expert,Sims2020,,,,
-Taoba-227_tread-1-1,Taoba-227_tread-1,nə³⁵ tɕʰo⁵⁵,31,false,expert,Sims2020,,,,
-Qinghua-227_tread-1-1,Qinghua-227_tread-1,nə¹³ tʂʰɯ¹³,31,false,expert,Sims2020,,,,
-Lanping-227_tread-1-1,Lanping-227_tread-1,nə¹³ tʂʰɯ¹³,31,false,expert,Sims2020,,,,
-Taoping-226_tooth-1-1,Taoping-226_tooth-1,suə⁵⁵,194,false,expert,Sims2020,,,,#0632
-Longxi-226_tooth-1-1,Longxi-226_tooth-1,sù,194,false,expert,Sims2020,,,,#0632
+Taoping-253_year-1-1,Taoping-253_year-1,pə³³,118,false,expert,Sims2020,,,,
+Longxi-253_year-1-1,Longxi-253_year-1,pù,118,false,expert,Sims2020,,,,
+Mianchi-253_year-1-1,Mianchi-253_year-1,pù,118,false,expert,Sims2020,,,,
+Yonghe-135_oneyear-1-1,Yonghe-135_oneyear-1,ə́-pù,118,false,expert,Sims2020,,,,
+Wadu-253_year-1-1,Wadu-253_year-1,pʉ̀,118,false,expert,Sims2020,,,,
+Dayang-253_year-1-1,Dayang-253_year-1,pɨ̀,118,false,expert,Sims2020,,,,
+Taoba-253_year-1-1,Taoba-253_year-1,pu⁵³,118,false,expert,Sims2020,,,,
+Qinghua-253_year-1-1,Qinghua-253_year-1,pə¹³,118,false,expert,Sims2020,,,,
+Lanping-253_year-1-1,Lanping-253_year-1,pə¹³,118,false,expert,Sims2020,,,,
+Jiulong-253_year-1-1,Jiulong-253_year-1,pi⁵³,118,false,expert,Sims2020,,,,
+Taoping-247_who-1-1,Taoping-247_who-1,sɨ⁵⁵,108,false,expert,Sims2020,,,,#5632
+Longxi-247_who-1-1,Longxi-247_who-1,sɨ́,108,false,expert,Sims2020,,,,#5632
+Mianchi-247_who-1-1,Mianchi-247_who-1,ʂí lè,108,false,expert,Sims2020,,,,#5632
+Yonghe-247_who-1-1,Yonghe-247_who-1,sɨ́,108,false,expert,Sims2020,,,,#5632
+Wadu-247_who-1-1,Wadu-247_who-1,hĩ̂,108,false,expert,Sims2020,,,,#5632
+Niuwozi-247_who-1-1,Niuwozi-247_who-1,xɜᴴ,108,false,expert,Sims2020,,,,#5632
+Taoba-247_who-1-1,Taoba-247_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
+Qinghua-247_who-1-1,Qinghua-247_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
+Lanping-247_who-1-1,Lanping-247_who-1,xɛ⁵⁵,108,false,expert,Sims2020,,,,#5632
+Taoping-246_white-1-1,Taoping-246_white-1,pʐi⁵⁵,183,false,expert,Sims2020,,,,#3608
+Longxi-246_white-1-1,Longxi-246_white-1,pʰé,183,false,expert,Sims2020,,,,#3608
+Mianchi-246_white-1-1,Mianchi-246_white-1,pʂí,183,false,expert,Sims2020,,,,#3608
+Yonghe-246_white-1-1,Yonghe-246_white-1,pʰjí,183,false,expert,Sims2020,,,,#3608
+Wadu-246_white-1-1,Wadu-246_white-1,ʈʰṍ,183,false,expert,Sims2020,,,,#3608
+Niuwozi-246_white-1-1,Niuwozi-246_white-1,pʰʴĩᴴ,183,false,expert,Sims2020,,,,#3608
+Dayang-246_white-1-1,Dayang-246_white-1,pʰʂẽ́,183,false,expert,Sims2020,,,,#3608
+Taoba-246_white-1-1,Taoba-246_white-1,pʰʐã⁵⁵ mə⁵³,183,false,expert,Sims2020,,,,#3608
+Qinghua-246_white-1-1,Qinghua-246_white-1,pʰʐə̃⁵⁵,183,false,expert,Sims2020,,,,#3608
+Lanping-246_white-1-1,Lanping-246_white-1,pʰʂə̃⁵⁵,183,false,expert,Sims2020,,,,#3608
+Jiulong-246_white-1-1,Jiulong-246_white-1,pʰʐĩ⁵⁵ lø⁵⁵ lø¹¹,183,false,expert,Sims2020,,,,#3608
+Taoping-242_weigh-1-1,Taoping-242_weigh-1,tɕʰe⁵⁵,95,false,expert,Sims2020,,,,#2312
+Longxi-245_weightgrain-1-1,Longxi-245_weightgrain-1,tɕʰì tɕʰí,95,false,expert,Sims2020,,,,#2312
+Mianchi-244_weighgrain-1-1,Mianchi-244_weighgrain-1,tɕʰé,95,false,expert,Sims2020,,,,#2312
+Taoba-242_weigh-1-1,Taoba-242_weigh-1,tə⁵⁵ tɕɛ⁵³,95,false,expert,Sims2020,,,,#2312
+Lanping-243_weighfood-1-1,Lanping-243_weighfood-1,tə⁵⁵ tɕi⁵⁵,95,false,expert,Sims2020,,,,#2312
+Jiulong-243_weighfood-1-1,Jiulong-243_weighfood-1,tɯ⁵⁵ ke⁵⁵,95,false,expert,Sims2020,,,,#2312
+Taoping-241_weep-1-1,Taoping-241_weep-1,ŋə⁵⁵,104,false,expert,Sims2020,,,,#1104
+Longxi-241_weep-1-1,Longxi-241_weep-1,ŋú,104,false,expert,Sims2020,,,,#1104
+Wadu-241_weep-1-1,Wadu-241_weep-1,qwé,104,false,expert,Sims2020,,,,#1104
+Niuwozi-241_weep-1-1,Niuwozi-241_weep-1,kwɜjᴴ,104,false,expert,Sims2020,,,,#1104
+Taoba-241_weep-1-1,Taoba-241_weep-1,xue⁵⁵,104,false,expert,Sims2020,,,,#1104
+Qinghua-241_weep-1-1,Qinghua-241_weep-1,squa⁵⁵,104,false,expert,Sims2020,,,,#1104
+Lanping-241_weep-1-1,Lanping-241_weep-1,χquɑ⁵⁵,104,false,expert,Sims2020,,,,#1104
+Jiulong-241_weep-1-1,Jiulong-241_weep-1,kuɛ⁵⁵,104,false,expert,Sims2020,,,,#1104
+Taoping-240_weave-1-1,Taoping-240_weave-1,tia³³,150,false,expert,Sims2020,,,,#2686
+Longxi-240_weave-1-1,Longxi-240_weave-1,tɕà,150,false,expert,Sims2020,,,,#2686
+Mianchi-240_weave-1-1,Mianchi-240_weave-1,tià,150,false,expert,Sims2020,,,,#2686
+Yonghe-240_weave-1-1,Yonghe-240_weave-1,tæ̌,150,false,expert,Sims2020,,,,#2686
+Wadu-240_weave-1-1,Wadu-240_weave-1,tɕæ̌,150,false,expert,Sims2020,,,,#2686
+Dayang-240_weave-1-1,Dayang-240_weave-1,tʂɒ̌,150,false,expert,Sims2020,,,,#2686
+Taoba-240_weave-1-1,Taoba-240_weave-1,nə³⁵ tɕɛ³⁵,150,false,expert,Sims2020,,,,#2686
+Lanping-240_weave-1-1,Lanping-240_weave-1,tʃɑ¹³,150,false,expert,Sims2020,,,,#2686
+Taoping-232_urine-1-1,Taoping-232_urine-1,bie²⁴¹,186,false,expert,Sims2020,,,,
+Longxi-232_urine-1-1,Longxi-232_urine-1,bí,186,false,expert,Sims2020,,,,
+Mianchi-232_urine-1-1,Mianchi-232_urine-1,biě,186,false,expert,Sims2020,,,,
+Yonghe-231_urinate-1-1,Yonghe-231_urinate-1,bɨ́,186,false,expert,Sims2020,,,,
+Wadu-232_urine-1-1,Wadu-232_urine-1,bĩ̂,186,false,expert,Sims2020,,,,
+Niuwozi-232_urine-1-1,Niuwozi-232_urine-1,biẽᶠ,186,false,expert,Sims2020,,,,
+Dayang-232_urine-1-1,Dayang-232_urine-1,βbĩ́,186,false,expert,Sims2020,,,,
+Taoping-227_tree-1-1,Taoping-227_tree-1,pʰo⁵⁵,91,false,expert,Sims2020,,,,
+Longxi-227_tree-1-1,Longxi-227_tree-1,ɕì pʰù,91,false,expert,Sims2020,,,,
+Mianchi-227_tree-1-1,Mianchi-227_tree-1,pʰò,91,false,expert,Sims2020,,,,
+Yonghe-227_tree-1-1,Yonghe-227_tree-1,pʰú,91,false,expert,Sims2020,,,,
+Wadu-227_tree-1-1,Wadu-227_tree-1,bóŋ,91,false,expert,Sims2020,,,,
+Qinghua-227_tree-1-1,Qinghua-227_tree-1,siɛ̃¹³ sbõ⁵⁵,91,false,expert,Sims2020,,,,
+Lanping-227_tree-1-1,Lanping-227_tree-1,siɛ̃¹³ vbõ⁵⁵,91,false,expert,Sims2020,,,,
+Jiulong-227_tree-1-1,Jiulong-227_tree-1,sẽ¹¹ bũ⁵⁵,91,false,expert,Sims2020,,,,
+Taoping-226_tread-1-1,Taoping-226_tread-1,tɕʰya³¹,31,false,expert,Sims2020,,,,
+Longxi-226_tread-1-1,Longxi-226_tread-1,tɕʰuà ȵí,31,false,expert,Sims2020,,,,
+Mianchi-226_tread-1-1,Mianchi-226_tread-1,tɕʰyà,31,false,expert,Sims2020,,,,
+Yonghe-226_tread-1-1,Yonghe-226_tread-1,tsʰwæ̀ ȵwí,31,false,expert,Sims2020,,,,
+Taoba-226_tread-1-1,Taoba-226_tread-1,nə³⁵ tɕʰo⁵⁵,31,false,expert,Sims2020,,,,
+Qinghua-226_tread-1-1,Qinghua-226_tread-1,nə¹³ tʂʰɯ¹³,31,false,expert,Sims2020,,,,
+Lanping-226_tread-1-1,Lanping-226_tread-1,nə¹³ tʂʰɯ¹³,31,false,expert,Sims2020,,,,
+Taoping-225_tooth-1-1,Taoping-225_tooth-1,suə⁵⁵,194,false,expert,Sims2020,,,,#0632
+Longxi-225_tooth-1-1,Longxi-225_tooth-1,sù,194,false,expert,Sims2020,,,,#0632
 Mianchi-82_gums-1-1,Mianchi-82_gums-1,sú-nə̀,194,false,expert,Sims2020,,,,#0632
-Yonghe-226_tooth-1-1,Yonghe-226_tooth-1,ɕwí,194,false,expert,Sims2020,,,,#0632
-Wadu-226_tooth-1-1,Wadu-226_tooth-1,ɻ̥ʉ́,194,false,expert,Sims2020,,,,#0632
-Niuwozi-226_tooth-1-1,Niuwozi-226_tooth-1,ɹ̥ʉᶠ,194,false,expert,Sims2020,,,,#0632
-Dayang-226_tooth-1-1,Dayang-226_tooth-1,ʂóu,194,false,expert,Sims2020,,,,#0632
-Taoba-226_tooth-1-1,Taoba-226_tooth-1,ʂu⁵³,194,false,expert,Sims2020,,,,#0632
-Qinghua-226_tooth-1-1,Qinghua-226_tooth-1,ʂy⁵⁵,194,false,expert,Sims2020,,,,#0632
-Lanping-226_tooth-1-1,Lanping-226_tooth-1,ʂy⁵⁵,194,false,expert,Sims2020,,,,#0632
-Jiulong-226_tooth-1-1,Jiulong-226_tooth-1,xui⁵⁵,194,false,expert,Sims2020,,,,#0632
-Taoping-225_tongue-1-1,Taoping-225_tongue-1,zɿ³¹ qə⁵⁵,199,false,expert,Sims2020,,,,#0621
-Longxi-225_tongue-1-1,Longxi-225_tongue-1,zə̀ qə̀,199,false,expert,Sims2020,,,,#0621
-Mianchi-225_tongue-1-1,Mianchi-225_tongue-1,zɨ̀ qé,199,false,expert,Sims2020,,,,#0621
-Yonghe-225_tongue-1-1,Yonghe-225_tongue-1,zɨ̌ qə̀,199,false,expert,Sims2020,,,,#0621
-Niuwozi-225_tongue-1-1,Niuwozi-225_tongue-1,l̥eᴴ,199,false,expert,Sims2020,,,,#0621
-Taoba-225_tongue-1-1,Taoba-225_tongue-1,ɬiɛ⁵³,199,false,expert,Sims2020,,,,#0621
-Qinghua-225_tongue-1-1,Qinghua-225_tongue-1,ɬie⁵⁵ qʰo⁵⁵,199,false,expert,Sims2020,,,,#0621
-Lanping-225_tongue-1-1,Lanping-225_tongue-1,ɬie⁵⁵ qʰo⁵⁵,199,false,expert,Sims2020,,,,#0621
-Jiulong-225_tongue-1-1,Jiulong-225_tongue-1,ɬə⁵⁵,199,false,expert,Sims2020,,,,#0621
-Taoping-223_toexist-1-1,Taoping-223_toexist-1,ʒɿ³³,38,false,expert,Sims2020,,,,#0449
-Longxi-223_toexist-1-1,Longxi-223_toexist-1,jì,38,false,expert,Sims2020,,,,#0449
-Mianchi-223_toexist-1-1,Mianchi-223_toexist-1,ʑì,38,false,expert,Sims2020,,,,#0449
-Wadu-223_toexist-1-1,Wadu-223_toexist-1,ʑǐ,38,false,expert,Sims2020,,,,#0449
-Taoba-223_toexist-1-1,Taoba-223_toexist-1,ʑɛ³⁵,38,false,expert,Sims2020,,,,#0449
-Qinghua-223_toexist-1-1,Qinghua-223_toexist-1,ʒø¹³,38,false,expert,Sims2020,,,,#0449
-Lanping-223_toexist-1-1,Lanping-223_toexist-1,ʒø¹³,38,false,expert,Sims2020,,,,#0449
-Jiulong-223_toexist-1-1,Jiulong-223_toexist-1,ʑe³⁵,38,false,expert,Sims2020,,,,#0449
-Taoping-218_thick-1-1,Taoping-218_thick-1,lie³³,180,false,expert,Sims2020,,,,#5729
-Longxi-218_thick-1-1,Longxi-218_thick-1,lià,180,false,expert,Sims2020,,,,#5729
-Mianchi-218_thick-1-1,Mianchi-218_thick-1,lià,180,false,expert,Sims2020,,,,#5729
-Yonghe-218_thick-1-1,Yonghe-218_thick-1,læ̌,180,false,expert,Sims2020,,,,#5729
-Wadu-218_thick-1-1,Wadu-218_thick-1,ɦɑ̌,180,false,expert,Sims2020,,,,#5729
-Niuwozi-218_thick-1-1,Niuwozi-218_thick-1,ɣɑᴿ,180,false,expert,Sims2020,,,,#5729
-Dayang-218_thick-1-1,Dayang-218_thick-1,ɣɑ̌,180,false,expert,Sims2020,,,,#5729
-Taoba-218_thick-1-1,Taoba-218_thick-1,ɣa¹³,180,false,expert,Sims2020,,,,#5729
-Qinghua-218_thick-1-1,Qinghua-218_thick-1,ɣa¹³,180,false,expert,Sims2020,,,,#5729
-Jiulong-218_thick-1-1,Jiulong-218_thick-1,lɑ³⁵,180,false,expert,Sims2020,,,,#5729
-Taoping-213_sweat-1-1,Taoping-213_sweat-1,χtʂuə⁵⁵,32,false,expert,Sims2020,,,,#0615
-Mianchi-213_sweat-1-1,Mianchi-213_sweat-1,tʂʰù,32,false,expert,Sims2020,,,,#0615
-Yonghe-213_sweat-1-1,Yonghe-213_sweat-1,tɕʰwí,32,false,expert,Sims2020,,,,#0615
-Dayang-213_sweat-1-1,Dayang-213_sweat-1,ʃtʃʰí,32,false,expert,Sims2020,,,,#0615
-Qinghua-213_sweat-1-1,Qinghua-213_sweat-1,skʰi⁵⁵,32,false,expert,Sims2020,,,,#0615
-Lanping-213_sweat-1-1,Lanping-213_sweat-1,skʰi⁵⁵,32,false,expert,Sims2020,,,,#0615
-Taoping-211_stretch-1-1,Taoping-211_stretch-1,sɿ³¹ tʂʰi⁵⁵,100,false,expert,Sims2020,,,,
-Longxi-211_stretch-1-1,Longxi-211_stretch-1,tsʰí,100,false,expert,Sims2020,,,,
-Mianchi-211_stretch-1-1,Mianchi-211_stretch-1,tʂʰɨ̀,100,false,expert,Sims2020,,,,
-Yonghe-211_stretch-1-1,Yonghe-211_stretch-1,hə̀-tʂʰə́,100,false,expert,Sims2020,,,,
-Qinghua-211_stretch-1-1,Qinghua-211_stretch-1,kʰə¹³ stʃõ⁵⁵,100,false,expert,Sims2020,,,,
-Lanping-211_stretch-1-1,Lanping-211_stretch-1,kʰə¹³ ʃtʃõ⁵⁵,100,false,expert,Sims2020,,,,
-Jiulong-211_stretch-1-1,Jiulong-211_stretch-1,kʰɯ¹¹ ʂã⁵⁵ la¹¹,100,false,expert,Sims2020,,,,
-Taoping-210_strength-1-1,Taoping-210_strength-1,dʐɿ²⁴¹,97,false,expert,Sims2020,,,,#5677
-Longxi-210_strength-1-1,Longxi-210_strength-1,qú,97,false,expert,Sims2020,,,,#5677
-Mianchi-210_strength-1-1,Mianchi-210_strength-1,dʐà qà,97,false,expert,Sims2020,,,,#5677
-Yonghe-210_strength-1-1,Yonghe-210_strength-1,qǔ,97,false,expert,Sims2020,,,,#5677
-Wadu-210_strength-1-1,Wadu-210_strength-1,qɐ̌,97,false,expert,Sims2020,,,,#5677
-Taoba-210_strength-1-1,Taoba-210_strength-1,ka³⁵,97,false,expert,Sims2020,,,,#5677
-Qinghua-210_strength-1-1,Qinghua-210_strength-1,qa¹³,97,false,expert,Sims2020,,,,#5677
-Lanping-210_strength-1-1,Lanping-210_strength-1,qa¹³,97,false,expert,Sims2020,,,,#5677
-Taoping-208_straight-1-1,Taoping-208_straight-1,χtə⁵⁵,189,false,expert,Sims2020,,,,
-Longxi-208_straight-1-1,Longxi-208_straight-1,tí,189,false,expert,Sims2020,,,,
-Mianchi-209_straighterect-1-1,Mianchi-209_straighterect-1,tí,189,false,expert,Sims2020,,,,
-Taoba-208_straight-1-1,Taoba-208_straight-1,tu⁵⁵ mə⁵³,189,false,expert,Sims2020,,,,
-Qinghua-208_straight-1-1,Qinghua-208_straight-1,stu⁵⁵,189,false,expert,Sims2020,,,,
-Lanping-208_straight-1-1,Lanping-208_straight-1,stu⁵⁵,189,false,expert,Sims2020,,,,
-Jiulong-208_straight-1-1,Jiulong-208_straight-1,tə¹¹ tu⁵⁵,189,false,expert,Sims2020,,,,
-Taoping-204_star-1-1,Taoping-204_star-1,χdʐe³³ pe⁵⁵,193,false,expert,Sims2020,,,,#3574
-Longxi-204_star-1-1,Longxi-204_star-1,zɨ̀ bà,193,false,expert,Sims2020,,,,#3574
-Mianchi-204_star-1-1,Mianchi-204_star-1,dʐɛ̀,193,false,expert,Sims2020,,,,#3574
-Yonghe-204_star-1-1,Yonghe-204_star-1,dʐɨ́,193,false,expert,Sims2020,,,,#3574
-Wadu-204_star-1-1,Wadu-204_star-1,ɖə̌,193,false,expert,Sims2020,,,,#3574
-Niuwozi-204_star-1-1,Niuwozi-204_star-1,gʴəᴿ,193,false,expert,Sims2020,,,,#3574
-Dayang-204_star-1-1,Dayang-204_star-1,ɖɨ̌,193,false,expert,Sims2020,,,,#3574
-Taoba-204_star-1-1,Taoba-204_star-1,dʐə³⁵,193,false,expert,Sims2020,,,,#3574
-Qinghua-204_star-1-1,Qinghua-204_star-1,dʐə¹³,193,false,expert,Sims2020,,,,#3574
-Lanping-204_star-1-1,Lanping-204_star-1,dʐə¹³,193,false,expert,Sims2020,,,,#3574
-Jiulong-204_star-1-1,Jiulong-204_star-1,dʐɿ³⁵,193,false,expert,Sims2020,,,,#3574
-Taoping-199_spitv-1-1,Taoping-199_spitv-1,pʰe³³,124,false,expert,Sims2020,,,,#1145
-Yonghe-199_spitv-1-1,Yonghe-199_spitv-1,sə́-pʰɛ̀,124,false,expert,Sims2020,,,,#1145
-Wadu-199_spitv-1-1,Wadu-199_spitv-1,pʰɐ̀,124,false,expert,Sims2020,,,,#1145
-Niuwozi-198_spew-1-1,Niuwozi-198_spew-1,pʰeᴿ,124,false,expert,Sims2020,,,,#1145
-Taoba-199_spitv-1-1,Taoba-199_spitv-1,pʰø³⁵,124,false,expert,Sims2020,,,,#1145
-Qinghua-199_spitv-1-1,Qinghua-199_spitv-1,tə⁵⁵ spʰɛ¹³,124,false,expert,Sims2020,,,,#1145
-Lanping-199_spitv-1-1,Lanping-199_spitv-1,tə⁵⁵ fpʰɛ¹³,124,false,expert,Sims2020,,,,#1145
-Jiulong-199_spitv-1-1,Jiulong-199_spitv-1,tɯ⁵⁵ pʰə⁵⁵,124,false,expert,Sims2020,,,,#1145
-Taoping-194_soldier-1-1,Taoping-194_soldier-1,dʐue²⁴¹,59,false,expert,Sims2020,,,,
-Longxi-194_soldier-1-1,Longxi-194_soldier-1,guà,59,false,expert,Sims2020,,,,
-Mianchi-194_soldier-1-1,Mianchi-194_soldier-1,dʑyè,59,false,expert,Sims2020,,,,
-Taoping-192_snow-1-1,Taoping-192_snow-1,χpɑ³¹ tʰu³³,198,false,expert,Sims2020,,,,#3554
-Longxi-192_snow-1-1,Longxi-192_snow-1,mù pà,198,false,expert,Sims2020,,,,#3554
-Mianchi-192_snow-1-1,Mianchi-192_snow-1,peì,198,false,expert,Sims2020,,,,#3554
-Yonghe-192_snow-1-1,Yonghe-192_snow-1,pɔ̌,198,false,expert,Sims2020,,,,#3554
-Wadu-192_snow-1-1,Wadu-192_snow-1,pʉ,198,false,expert,Sims2020,,,,#3554
-Niuwozi-192_snow-1-1,Niuwozi-192_snow-1,pʉᶠ,198,false,expert,Sims2020,,,,#3554
-Taoba-192_snow-1-1,Taoba-192_snow-1,pu̵⁵³,198,false,expert,Sims2020,,,,#3554
-Qinghua-192_snow-1-1,Qinghua-192_snow-1,spy⁵⁵,198,false,expert,Sims2020,,,,#3554
-Lanping-192_snow-1-1,Lanping-192_snow-1,fpy⁵⁵,198,false,expert,Sims2020,,,,#3554
-Jiulong-192_snow-1-1,Jiulong-192_snow-1,py⁵⁵,198,false,expert,Sims2020,,,,#3554
-Taoping-185_skin-1-1,Taoping-185_skin-1,tʃʰɿ³¹ pa³³,160,false,expert,Sims2020,,,,#0596
-Longxi-185_skin-1-1,Longxi-185_skin-1,ɹà pià,160,false,expert,Sims2020,,,,#0596
-Mianchi-185_skin-1-1,Mianchi-185_skin-1,ʐà piá,160,false,expert,Sims2020,,,,#0596
-Yonghe-185_skin-1-1,Yonghe-185_skin-1,ɦæ̀ pǽ,160,false,expert,Sims2020,,,,#0596
-Niuwozi-185_skin-1-1,Niuwozi-185_skin-1,ɹəᶠ,160,false,expert,Sims2020,,,,#0596
-Dayang-185_skin-1-1,Dayang-185_skin-1,rə̀ ʃtʃɨ̌,160,false,expert,Sims2020,,,,#0596
-Taoba-185_skin-1-1,Taoba-185_skin-1,rə⁵³,160,false,expert,Sims2020,,,,#0596
-Qinghua-185_skin-1-1,Qinghua-185_skin-1,ʐɤ¹³,160,false,expert,Sims2020,,,,#0596
-Jiulong-185_skin-1-1,Jiulong-185_skin-1,ʐɿ³⁵,160,false,expert,Sims2020,,,,#0596
-Taoping-184_sitonhatchegg-1-1,Taoping-184_sitonhatchegg-1,χne⁵⁵,20,false,expert,Sims2020,,,,
+Yonghe-225_tooth-1-1,Yonghe-225_tooth-1,ɕwí,194,false,expert,Sims2020,,,,#0632
+Wadu-225_tooth-1-1,Wadu-225_tooth-1,ɻ̥ʉ́,194,false,expert,Sims2020,,,,#0632
+Niuwozi-225_tooth-1-1,Niuwozi-225_tooth-1,ɹ̥ʉᶠ,194,false,expert,Sims2020,,,,#0632
+Dayang-225_tooth-1-1,Dayang-225_tooth-1,ʂóu,194,false,expert,Sims2020,,,,#0632
+Taoba-225_tooth-1-1,Taoba-225_tooth-1,ʂu⁵³,194,false,expert,Sims2020,,,,#0632
+Qinghua-225_tooth-1-1,Qinghua-225_tooth-1,ʂy⁵⁵,194,false,expert,Sims2020,,,,#0632
+Lanping-225_tooth-1-1,Lanping-225_tooth-1,ʂy⁵⁵,194,false,expert,Sims2020,,,,#0632
+Jiulong-225_tooth-1-1,Jiulong-225_tooth-1,xui⁵⁵,194,false,expert,Sims2020,,,,#0632
+Taoping-224_tongue-1-1,Taoping-224_tongue-1,zɿ³¹ qə⁵⁵,199,false,expert,Sims2020,,,,#0621
+Longxi-224_tongue-1-1,Longxi-224_tongue-1,zə̀ qə̀,199,false,expert,Sims2020,,,,#0621
+Mianchi-224_tongue-1-1,Mianchi-224_tongue-1,zɨ̀ qé,199,false,expert,Sims2020,,,,#0621
+Yonghe-224_tongue-1-1,Yonghe-224_tongue-1,zɨ̌ qə̀,199,false,expert,Sims2020,,,,#0621
+Niuwozi-224_tongue-1-1,Niuwozi-224_tongue-1,l̥eᴴ,199,false,expert,Sims2020,,,,#0621
+Taoba-224_tongue-1-1,Taoba-224_tongue-1,ɬiɛ⁵³,199,false,expert,Sims2020,,,,#0621
+Qinghua-224_tongue-1-1,Qinghua-224_tongue-1,ɬie⁵⁵ qʰo⁵⁵,199,false,expert,Sims2020,,,,#0621
+Lanping-224_tongue-1-1,Lanping-224_tongue-1,ɬie⁵⁵ qʰo⁵⁵,199,false,expert,Sims2020,,,,#0621
+Jiulong-224_tongue-1-1,Jiulong-224_tongue-1,ɬə⁵⁵,199,false,expert,Sims2020,,,,#0621
+Taoping-222_toexist-1-1,Taoping-222_toexist-1,ʒɿ³³,38,false,expert,Sims2020,,,,#0449
+Longxi-222_toexist-1-1,Longxi-222_toexist-1,jì,38,false,expert,Sims2020,,,,#0449
+Mianchi-222_toexist-1-1,Mianchi-222_toexist-1,ʑì,38,false,expert,Sims2020,,,,#0449
+Wadu-222_toexist-1-1,Wadu-222_toexist-1,ʑǐ,38,false,expert,Sims2020,,,,#0449
+Taoba-222_toexist-1-1,Taoba-222_toexist-1,ʑɛ³⁵,38,false,expert,Sims2020,,,,#0449
+Qinghua-222_toexist-1-1,Qinghua-222_toexist-1,ʒø¹³,38,false,expert,Sims2020,,,,#0449
+Lanping-222_toexist-1-1,Lanping-222_toexist-1,ʒø¹³,38,false,expert,Sims2020,,,,#0449
+Jiulong-222_toexist-1-1,Jiulong-222_toexist-1,ʑe³⁵,38,false,expert,Sims2020,,,,#0449
+Taoping-217_thick-1-1,Taoping-217_thick-1,lie³³,180,false,expert,Sims2020,,,,#5729
+Longxi-217_thick-1-1,Longxi-217_thick-1,lià,180,false,expert,Sims2020,,,,#5729
+Mianchi-217_thick-1-1,Mianchi-217_thick-1,lià,180,false,expert,Sims2020,,,,#5729
+Yonghe-217_thick-1-1,Yonghe-217_thick-1,læ̌,180,false,expert,Sims2020,,,,#5729
+Wadu-217_thick-1-1,Wadu-217_thick-1,ɦɑ̌,180,false,expert,Sims2020,,,,#5729
+Niuwozi-217_thick-1-1,Niuwozi-217_thick-1,ɣɑᴿ,180,false,expert,Sims2020,,,,#5729
+Dayang-217_thick-1-1,Dayang-217_thick-1,ɣɑ̌,180,false,expert,Sims2020,,,,#5729
+Taoba-217_thick-1-1,Taoba-217_thick-1,ɣa¹³,180,false,expert,Sims2020,,,,#5729
+Qinghua-217_thick-1-1,Qinghua-217_thick-1,ɣa¹³,180,false,expert,Sims2020,,,,#5729
+Jiulong-217_thick-1-1,Jiulong-217_thick-1,lɑ³⁵,180,false,expert,Sims2020,,,,#5729
+Taoping-212_sweat-1-1,Taoping-212_sweat-1,χtʂuə⁵⁵,32,false,expert,Sims2020,,,,#0615
+Mianchi-212_sweat-1-1,Mianchi-212_sweat-1,tʂʰù,32,false,expert,Sims2020,,,,#0615
+Yonghe-212_sweat-1-1,Yonghe-212_sweat-1,tɕʰwí,32,false,expert,Sims2020,,,,#0615
+Dayang-212_sweat-1-1,Dayang-212_sweat-1,ʃtʃʰí,32,false,expert,Sims2020,,,,#0615
+Qinghua-212_sweat-1-1,Qinghua-212_sweat-1,skʰi⁵⁵,32,false,expert,Sims2020,,,,#0615
+Lanping-212_sweat-1-1,Lanping-212_sweat-1,skʰi⁵⁵,32,false,expert,Sims2020,,,,#0615
+Taoping-210_stretch-1-1,Taoping-210_stretch-1,sɿ³¹ tʂʰi⁵⁵,100,false,expert,Sims2020,,,,
+Longxi-210_stretch-1-1,Longxi-210_stretch-1,tsʰí,100,false,expert,Sims2020,,,,
+Mianchi-210_stretch-1-1,Mianchi-210_stretch-1,tʂʰɨ̀,100,false,expert,Sims2020,,,,
+Yonghe-210_stretch-1-1,Yonghe-210_stretch-1,hə̀-tʂʰə́,100,false,expert,Sims2020,,,,
+Qinghua-210_stretch-1-1,Qinghua-210_stretch-1,kʰə¹³ stʃõ⁵⁵,100,false,expert,Sims2020,,,,
+Lanping-210_stretch-1-1,Lanping-210_stretch-1,kʰə¹³ ʃtʃõ⁵⁵,100,false,expert,Sims2020,,,,
+Jiulong-210_stretch-1-1,Jiulong-210_stretch-1,kʰɯ¹¹ ʂã⁵⁵ la¹¹,100,false,expert,Sims2020,,,,
+Taoping-209_strength-1-1,Taoping-209_strength-1,dʐɿ²⁴¹,97,false,expert,Sims2020,,,,#5677
+Longxi-209_strength-1-1,Longxi-209_strength-1,qú,97,false,expert,Sims2020,,,,#5677
+Mianchi-209_strength-1-1,Mianchi-209_strength-1,dʐà qà,97,false,expert,Sims2020,,,,#5677
+Yonghe-209_strength-1-1,Yonghe-209_strength-1,qǔ,97,false,expert,Sims2020,,,,#5677
+Wadu-209_strength-1-1,Wadu-209_strength-1,qɐ̌,97,false,expert,Sims2020,,,,#5677
+Taoba-209_strength-1-1,Taoba-209_strength-1,ka³⁵,97,false,expert,Sims2020,,,,#5677
+Qinghua-209_strength-1-1,Qinghua-209_strength-1,qa¹³,97,false,expert,Sims2020,,,,#5677
+Lanping-209_strength-1-1,Lanping-209_strength-1,qa¹³,97,false,expert,Sims2020,,,,#5677
+Taoping-207_straight-1-1,Taoping-207_straight-1,χtə⁵⁵,189,false,expert,Sims2020,,,,
+Longxi-207_straight-1-1,Longxi-207_straight-1,tí,189,false,expert,Sims2020,,,,
+Mianchi-208_straighterect-1-1,Mianchi-208_straighterect-1,tí,189,false,expert,Sims2020,,,,
+Taoba-207_straight-1-1,Taoba-207_straight-1,tu⁵⁵ mə⁵³,189,false,expert,Sims2020,,,,
+Qinghua-207_straight-1-1,Qinghua-207_straight-1,stu⁵⁵,189,false,expert,Sims2020,,,,
+Lanping-207_straight-1-1,Lanping-207_straight-1,stu⁵⁵,189,false,expert,Sims2020,,,,
+Jiulong-207_straight-1-1,Jiulong-207_straight-1,tə¹¹ tu⁵⁵,189,false,expert,Sims2020,,,,
+Taoping-203_star-1-1,Taoping-203_star-1,χdʐe³³ pe⁵⁵,193,false,expert,Sims2020,,,,#3574
+Longxi-203_star-1-1,Longxi-203_star-1,zɨ̀ bà,193,false,expert,Sims2020,,,,#3574
+Mianchi-203_star-1-1,Mianchi-203_star-1,dʐɛ̀,193,false,expert,Sims2020,,,,#3574
+Yonghe-203_star-1-1,Yonghe-203_star-1,dʐɨ́,193,false,expert,Sims2020,,,,#3574
+Wadu-203_star-1-1,Wadu-203_star-1,ɖə̌,193,false,expert,Sims2020,,,,#3574
+Niuwozi-203_star-1-1,Niuwozi-203_star-1,gʴəᴿ,193,false,expert,Sims2020,,,,#3574
+Dayang-203_star-1-1,Dayang-203_star-1,ɖɨ̌,193,false,expert,Sims2020,,,,#3574
+Taoba-203_star-1-1,Taoba-203_star-1,dʐə³⁵,193,false,expert,Sims2020,,,,#3574
+Qinghua-203_star-1-1,Qinghua-203_star-1,dʐə¹³,193,false,expert,Sims2020,,,,#3574
+Lanping-203_star-1-1,Lanping-203_star-1,dʐə¹³,193,false,expert,Sims2020,,,,#3574
+Jiulong-203_star-1-1,Jiulong-203_star-1,dʐɿ³⁵,193,false,expert,Sims2020,,,,#3574
+Taoping-198_spitv-1-1,Taoping-198_spitv-1,pʰe³³,124,false,expert,Sims2020,,,,#1145
+Yonghe-198_spitv-1-1,Yonghe-198_spitv-1,sə́-pʰɛ̀,124,false,expert,Sims2020,,,,#1145
+Wadu-198_spitv-1-1,Wadu-198_spitv-1,pʰɐ̀,124,false,expert,Sims2020,,,,#1145
+Niuwozi-197_spew-1-1,Niuwozi-197_spew-1,pʰeᴿ,124,false,expert,Sims2020,,,,#1145
+Taoba-198_spitv-1-1,Taoba-198_spitv-1,pʰø³⁵,124,false,expert,Sims2020,,,,#1145
+Qinghua-198_spitv-1-1,Qinghua-198_spitv-1,tə⁵⁵ spʰɛ¹³,124,false,expert,Sims2020,,,,#1145
+Lanping-198_spitv-1-1,Lanping-198_spitv-1,tə⁵⁵ fpʰɛ¹³,124,false,expert,Sims2020,,,,#1145
+Jiulong-198_spitv-1-1,Jiulong-198_spitv-1,tɯ⁵⁵ pʰə⁵⁵,124,false,expert,Sims2020,,,,#1145
+Taoping-193_soldier-1-1,Taoping-193_soldier-1,dʐue²⁴¹,59,false,expert,Sims2020,,,,
+Longxi-193_soldier-1-1,Longxi-193_soldier-1,guà,59,false,expert,Sims2020,,,,
+Mianchi-193_soldier-1-1,Mianchi-193_soldier-1,dʑyè,59,false,expert,Sims2020,,,,
+Taoping-191_snow-1-1,Taoping-191_snow-1,χpɑ³¹ tʰu³³,198,false,expert,Sims2020,,,,#3554
+Longxi-191_snow-1-1,Longxi-191_snow-1,mù pà,198,false,expert,Sims2020,,,,#3554
+Mianchi-191_snow-1-1,Mianchi-191_snow-1,peì,198,false,expert,Sims2020,,,,#3554
+Yonghe-191_snow-1-1,Yonghe-191_snow-1,pɔ̌,198,false,expert,Sims2020,,,,#3554
+Wadu-191_snow-1-1,Wadu-191_snow-1,pʉ,198,false,expert,Sims2020,,,,#3554
+Niuwozi-191_snow-1-1,Niuwozi-191_snow-1,pʉᶠ,198,false,expert,Sims2020,,,,#3554
+Taoba-191_snow-1-1,Taoba-191_snow-1,pu̵⁵³,198,false,expert,Sims2020,,,,#3554
+Qinghua-191_snow-1-1,Qinghua-191_snow-1,spy⁵⁵,198,false,expert,Sims2020,,,,#3554
+Lanping-191_snow-1-1,Lanping-191_snow-1,fpy⁵⁵,198,false,expert,Sims2020,,,,#3554
+Jiulong-191_snow-1-1,Jiulong-191_snow-1,py⁵⁵,198,false,expert,Sims2020,,,,#3554
+Taoping-184_skin-1-1,Taoping-184_skin-1,tʃʰɿ³¹ pa³³,160,false,expert,Sims2020,,,,#0596
+Longxi-184_skin-1-1,Longxi-184_skin-1,ɹà pià,160,false,expert,Sims2020,,,,#0596
+Mianchi-184_skin-1-1,Mianchi-184_skin-1,ʐà piá,160,false,expert,Sims2020,,,,#0596
+Yonghe-184_skin-1-1,Yonghe-184_skin-1,ɦæ̀ pǽ,160,false,expert,Sims2020,,,,#0596
+Niuwozi-184_skin-1-1,Niuwozi-184_skin-1,ɹəᶠ,160,false,expert,Sims2020,,,,#0596
+Dayang-184_skin-1-1,Dayang-184_skin-1,rə̀ ʃtʃɨ̌,160,false,expert,Sims2020,,,,#0596
+Taoba-184_skin-1-1,Taoba-184_skin-1,rə⁵³,160,false,expert,Sims2020,,,,#0596
+Qinghua-184_skin-1-1,Qinghua-184_skin-1,ʐɤ¹³,160,false,expert,Sims2020,,,,#0596
+Jiulong-184_skin-1-1,Jiulong-184_skin-1,ʐɿ³⁵,160,false,expert,Sims2020,,,,#0596
+Taoping-183_sitonhatchegg-1-1,Taoping-183_sitonhatchegg-1,χne⁵⁵,20,false,expert,Sims2020,,,,
 Mianchi-89_hatchbrood-1-1,Mianchi-89_hatchbrood-1,né,20,false,expert,Sims2020,,,,
-Taoba-184_sitonhatchegg-1-1,Taoba-184_sitonhatchegg-1,tə⁵⁵ ȵi⁵³,20,false,expert,Sims2020,,,,
+Taoba-183_sitonhatchegg-1-1,Taoba-183_sitonhatchegg-1,tə⁵⁵ ȵi⁵³,20,false,expert,Sims2020,,,,
 Qinghua-104_layegg-1-1,Qinghua-104_layegg-1,tə⁵⁵ ȵi⁵⁵,20,false,expert,Sims2020,,,,
-Taoping-183_sitdown-1-1,Taoping-183_sitdown-1,dzo³³,113,false,expert,Sims2020,,,,#3591
-Longxi-183_sitdown-1-1,Longxi-183_sitdown-1,ɦà zú,113,false,expert,Sims2020,,,,#3591
-Mianchi-183_sitdown-1-1,Mianchi-183_sitdown-1,dzó,113,false,expert,Sims2020,,,,#3591
-Wadu-183_sitdown-1-1,Wadu-183_sitdown-1,nə̀ dzṍ,113,false,expert,Sims2020,,,,#3591
-Niuwozi-183_sitdown-1-1,Niuwozi-183_sitdown-1,dzõᴴ,113,false,expert,Sims2020,,,,#3591
-Taoba-183_sitdown-1-1,Taoba-183_sitdown-1,nə³⁵ dziã⁵⁵,113,false,expert,Sims2020,,,,#3591
-Qinghua-183_sitdown-1-1,Qinghua-183_sitdown-1,nə¹³ dziɛ̃⁵⁵,113,false,expert,Sims2020,,,,#3591
-Lanping-183_sitdown-1-1,Lanping-183_sitdown-1,nə¹³ dziɛ̃⁵⁵,113,false,expert,Sims2020,,,,#3591
-Jiulong-183_sitdown-1-1,Jiulong-183_sitdown-1,nə⁵⁵ dzə̃⁵⁵,113,false,expert,Sims2020,,,,#3591
-Taoping-182_sinew-1-1,Taoping-182_sinew-1,dʐʅ²⁴¹,201,false,expert,Sims2020,,,,#0535
-Longxi-182_sinew-1-1,Longxi-182_sinew-1,dzɨ̀,201,false,expert,Sims2020,,,,#0535
-Mianchi-182_sinew-1-1,Mianchi-182_sinew-1,dʑɛ̀,201,false,expert,Sims2020,,,,#0535
-Yonghe-182_sinew-1-1,Yonghe-182_sinew-1,dʐí,201,false,expert,Sims2020,,,,#0535
-Taoba-182_sinew-1-1,Taoba-182_sinew-1,dʐu⁵³,201,false,expert,Sims2020,,,,#0535
-Taoping-181_silver-1-1,Taoping-181_silver-1,χŋu⁵⁵,103,false,expert,Sims2020,,,,#2536
-Longxi-181_silver-1-1,Longxi-181_silver-1,ŋú,103,false,expert,Sims2020,,,,#2536
-Mianchi-181_silver-1-1,Mianchi-181_silver-1,ŋó,103,false,expert,Sims2020,,,,#2536
-Yonghe-181_silver-1-1,Yonghe-181_silver-1,wú,103,false,expert,Sims2020,,,,#2536
-Wadu-181_silver-1-1,Wadu-181_silver-1,ŋṍ,103,false,expert,Sims2020,,,,#2536
-Niuwozi-181_silver-1-1,Niuwozi-181_silver-1,jõᴴ,103,false,expert,Sims2020,,,,#2536
-Dayang-181_silver-1-1,Dayang-181_silver-1,ŋoṹ,103,false,expert,Sims2020,,,,#2536
-Taoba-181_silver-1-1,Taoba-181_silver-1,ȵõ⁵⁵,103,false,expert,Sims2020,,,,#2536
-Qinghua-181_silver-1-1,Qinghua-181_silver-1,ŋɑ̃u⁵⁵,103,false,expert,Sims2020,,,,#2536
-Lanping-181_silver-1-1,Lanping-181_silver-1,ŋɑ̃u⁵⁵,103,false,expert,Sims2020,,,,#2536
-Jiulong-181_silver-1-1,Jiulong-181_silver-1,ŋɯ̃³⁵,103,false,expert,Sims2020,,,,#2536
-Taoping-179_shoulder-1-1,Taoping-179_shoulder-1,lɑ³¹ χɑ⁵⁵ pi³³,63,false,expert,Sims2020,,,,#0695
-Taoping-178_shootv-1-1,Taoping-178_shootv-1,qʰa³³,167,false,expert,Sims2020,,,,
-Longxi-178_shootv-1-1,Longxi-178_shootv-1,qʰò,167,false,expert,Sims2020,,,,
-Mianchi-178_shootv-1-1,Mianchi-178_shootv-1,tʂʰà,167,false,expert,Sims2020,,,,
-Wadu-178_shootv-1-1,Wadu-178_shootv-1,ʈʰæ̌,167,false,expert,Sims2020,,,,
-Niuwozi-178_shootv-1-1,Niuwozi-178_shootv-1,kʰʴɑ̌,167,false,expert,Sims2020,,,,
-Taoba-178_shootv-1-1,Taoba-178_shootv-1,kʰə³⁵ tʂʰa³⁵,167,false,expert,Sims2020,,,,
-Qinghua-178_shootv-1-1,Qinghua-178_shootv-1,kʰə¹³ tʂʰɑ⁵⁵,167,false,expert,Sims2020,,,,
-Lanping-178_shootv-1-1,Lanping-178_shootv-1,kʰə¹³ tʂʰɑ⁵⁵,167,false,expert,Sims2020,,,,
-Taoping-176_shit-1-1,Taoping-176_shit-1,tʃʰɿ⁵⁵,107,false,expert,Sims2020,,,,#0572
-Longxi-176_shit-1-1,Longxi-176_shit-1,tsʰə̀,107,false,expert,Sims2020,,,,#0572
-Mianchi-176_shit-1-1,Mianchi-176_shit-1,tɕʰɛ́,107,false,expert,Sims2020,,,,#0572
-Yonghe-176_shit-1-1,Yonghe-176_shit-1,ʂɨ́,107,false,expert,Sims2020,,,,#0572
-Niuwozi-176_shit-1-1,Niuwozi-176_shit-1,kɜjᶠ,107,false,expert,Sims2020,,,,#0572
-Dayang-176_shit-1-1,Dayang-176_shit-1,χqá,107,false,expert,Sims2020,,,,#0572
-Taoba-176_shit-1-1,Taoba-176_shit-1,xe⁵³,107,false,expert,Sims2020,,,,#0572
-Qinghua-176_shit-1-1,Qinghua-176_shit-1,sqa⁵⁵,107,false,expert,Sims2020,,,,#0572
-Lanping-176_shit-1-1,Lanping-176_shit-1,xqa⁵⁵,107,false,expert,Sims2020,,,,#0572
-Jiulong-176_shit-1-1,Jiulong-176_shit-1,qɛi⁵⁵,107,false,expert,Sims2020,,,,#0572
-Taoping-172_sharpengrind-1-1,Taoping-172_sharpengrind-1,suə⁵⁵,157,false,expert,Sims2020,,,,
-Longxi-172_sharpengrind-1-1,Longxi-172_sharpengrind-1,sù,157,false,expert,Sims2020,,,,
-Mianchi-172_sharpengrind-1-1,Mianchi-172_sharpengrind-1,sù,157,false,expert,Sims2020,,,,
-Niuwozi-172_sharpengrind-1-1,Niuwozi-172_sharpengrind-1,suᴿ,157,false,expert,Sims2020,,,,
-Taoba-172_sharpengrind-1-1,Taoba-172_sharpengrind-1,kʰə³⁵ sui³⁵,157,false,expert,Sims2020,,,,
-Qinghua-172_sharpengrind-1-1,Qinghua-172_sharpengrind-1,kʰə¹³ syi¹³,157,false,expert,Sims2020,,,,
-Taoping-171_sew-1-1,Taoping-171_sew-1,ʐi³¹ ʐi³¹,173,false,expert,Sims2020,,,,#2627
-Longxi-171_sew-1-1,Longxi-171_sew-1,ɹà í,173,false,expert,Sims2020,,,,#2627
-Mianchi-171_sew-1-1,Mianchi-171_sew-1,ʐì,173,false,expert,Sims2020,,,,#2627
-Yonghe-171_sew-1-1,Yonghe-171_sew-1,zɨ̀ jí,173,false,expert,Sims2020,,,,#2627
-Wadu-171_sew-1-1,Wadu-171_sew-1,dʐǐ,173,false,expert,Sims2020,,,,#2627
-Niuwozi-171_sew-1-1,Niuwozi-171_sew-1,dʐiᴿ,173,false,expert,Sims2020,,,,#2627
-Lanping-171_sew-1-1,Lanping-171_sew-1,dʐi¹³,173,false,expert,Sims2020,,,,#2627
-Taoping-168_seed-1-1,Taoping-168_seed-1,zuə³¹ zɑ²⁴¹,61,false,expert,Sims2020,,,,#3559
-Longxi-168_seed-1-1,Longxi-168_seed-1,dzueì,61,false,expert,Sims2020,,,,#3559
-Mianchi-150_pitstonebullet-1-1,Mianchi-150_pitstonebullet-1,zuì,61,false,expert,Sims2020,,,,#3559
-Taoping-167_rope-1-1,Taoping-167_rope-1,bʐe³³,184,false,expert,Sims2020,,,,#0193
-Mianchi-167_rope-1-1,Mianchi-167_rope-1,bʐè,184,false,expert,Sims2020,,,,#0193
-Wadu-167_rope-1-1,Wadu-167_rope-1,dʐwẽ̌,184,false,expert,Sims2020,,,,#0193
-Niuwozi-167_rope-1-1,Niuwozi-167_rope-1,bʴjẽᴿ,184,false,expert,Sims2020,,,,#0193
-Dayang-167_rope-1-1,Dayang-167_rope-1,bʐẽ̌,184,false,expert,Sims2020,,,,#0193
-Taoba-167_rope-1-1,Taoba-167_rope-1,bʐẽ³⁵,184,false,expert,Sims2020,,,,#0193
-Qinghua-167_rope-1-1,Qinghua-167_rope-1,bʐə̃¹³,184,false,expert,Sims2020,,,,#0193
-Lanping-167_rope-1-1,Lanping-167_rope-1,bʐə̃¹³,184,false,expert,Sims2020,,,,#0193
-Taoping-160_red-1-1,Taoping-160_red-1,χȵi³¹ ȵi³³,191,false,expert,Sims2020,,,,#2499
-Longxi-160_red-1-1,Longxi-160_red-1,ɕí,191,false,expert,Sims2020,,,,#2499
-Mianchi-160_red-1-1,Mianchi-160_red-1,nə́,191,false,expert,Sims2020,,,,#2499
-Yonghe-160_red-1-1,Yonghe-160_red-1,xí,191,false,expert,Sims2020,,,,#2499
-Niuwozi-160_red-1-1,Niuwozi-160_red-1,neᴴ,191,false,expert,Sims2020,,,,#2499
-Dayang-160_red-1-1,Dayang-160_red-1,ȵé,191,false,expert,Sims2020,,,,#2499
-Taoba-160_red-1-1,Taoba-160_red-1,ȵɛ⁵⁵ mə⁵³,191,false,expert,Sims2020,,,,#2499
-Qinghua-160_red-1-1,Qinghua-160_red-1,ȵø⁵⁵,191,false,expert,Sims2020,,,,#2499
-Lanping-160_red-1-1,Lanping-160_red-1,ȵø⁵⁵,191,false,expert,Sims2020,,,,#2499
+Taoping-182_sitdown-1-1,Taoping-182_sitdown-1,dzo³³,113,false,expert,Sims2020,,,,#3591
+Longxi-182_sitdown-1-1,Longxi-182_sitdown-1,ɦà zú,113,false,expert,Sims2020,,,,#3591
+Mianchi-182_sitdown-1-1,Mianchi-182_sitdown-1,dzó,113,false,expert,Sims2020,,,,#3591
+Wadu-182_sitdown-1-1,Wadu-182_sitdown-1,nə̀ dzṍ,113,false,expert,Sims2020,,,,#3591
+Niuwozi-182_sitdown-1-1,Niuwozi-182_sitdown-1,dzõᴴ,113,false,expert,Sims2020,,,,#3591
+Taoba-182_sitdown-1-1,Taoba-182_sitdown-1,nə³⁵ dziã⁵⁵,113,false,expert,Sims2020,,,,#3591
+Qinghua-182_sitdown-1-1,Qinghua-182_sitdown-1,nə¹³ dziɛ̃⁵⁵,113,false,expert,Sims2020,,,,#3591
+Lanping-182_sitdown-1-1,Lanping-182_sitdown-1,nə¹³ dziɛ̃⁵⁵,113,false,expert,Sims2020,,,,#3591
+Jiulong-182_sitdown-1-1,Jiulong-182_sitdown-1,nə⁵⁵ dzə̃⁵⁵,113,false,expert,Sims2020,,,,#3591
+Taoping-181_sinew-1-1,Taoping-181_sinew-1,dʐʅ²⁴¹,201,false,expert,Sims2020,,,,#0535
+Longxi-181_sinew-1-1,Longxi-181_sinew-1,dzɨ̀,201,false,expert,Sims2020,,,,#0535
+Mianchi-181_sinew-1-1,Mianchi-181_sinew-1,dʑɛ̀,201,false,expert,Sims2020,,,,#0535
+Yonghe-181_sinew-1-1,Yonghe-181_sinew-1,dʐí,201,false,expert,Sims2020,,,,#0535
+Taoba-181_sinew-1-1,Taoba-181_sinew-1,dʐu⁵³,201,false,expert,Sims2020,,,,#0535
+Taoping-180_silver-1-1,Taoping-180_silver-1,χŋu⁵⁵,103,false,expert,Sims2020,,,,#2536
+Longxi-180_silver-1-1,Longxi-180_silver-1,ŋú,103,false,expert,Sims2020,,,,#2536
+Mianchi-180_silver-1-1,Mianchi-180_silver-1,ŋó,103,false,expert,Sims2020,,,,#2536
+Yonghe-180_silver-1-1,Yonghe-180_silver-1,wú,103,false,expert,Sims2020,,,,#2536
+Wadu-180_silver-1-1,Wadu-180_silver-1,ŋṍ,103,false,expert,Sims2020,,,,#2536
+Niuwozi-180_silver-1-1,Niuwozi-180_silver-1,jõᴴ,103,false,expert,Sims2020,,,,#2536
+Dayang-180_silver-1-1,Dayang-180_silver-1,ŋoṹ,103,false,expert,Sims2020,,,,#2536
+Taoba-180_silver-1-1,Taoba-180_silver-1,ȵõ⁵⁵,103,false,expert,Sims2020,,,,#2536
+Qinghua-180_silver-1-1,Qinghua-180_silver-1,ŋɑ̃u⁵⁵,103,false,expert,Sims2020,,,,#2536
+Lanping-180_silver-1-1,Lanping-180_silver-1,ŋɑ̃u⁵⁵,103,false,expert,Sims2020,,,,#2536
+Jiulong-180_silver-1-1,Jiulong-180_silver-1,ŋɯ̃³⁵,103,false,expert,Sims2020,,,,#2536
+Taoping-178_shoulder-1-1,Taoping-178_shoulder-1,lɑ³¹ χɑ⁵⁵ pi³³,63,false,expert,Sims2020,,,,#0695
+Taoping-177_shootv-1-1,Taoping-177_shootv-1,qʰa³³,167,false,expert,Sims2020,,,,
+Longxi-177_shootv-1-1,Longxi-177_shootv-1,qʰò,167,false,expert,Sims2020,,,,
+Mianchi-177_shootv-1-1,Mianchi-177_shootv-1,tʂʰà,167,false,expert,Sims2020,,,,
+Wadu-177_shootv-1-1,Wadu-177_shootv-1,ʈʰæ̌,167,false,expert,Sims2020,,,,
+Niuwozi-177_shootv-1-1,Niuwozi-177_shootv-1,kʰʴɑ̌,167,false,expert,Sims2020,,,,
+Taoba-177_shootv-1-1,Taoba-177_shootv-1,kʰə³⁵ tʂʰa³⁵,167,false,expert,Sims2020,,,,
+Qinghua-177_shootv-1-1,Qinghua-177_shootv-1,kʰə¹³ tʂʰɑ⁵⁵,167,false,expert,Sims2020,,,,
+Lanping-177_shootv-1-1,Lanping-177_shootv-1,kʰə¹³ tʂʰɑ⁵⁵,167,false,expert,Sims2020,,,,
+Taoping-175_shit-1-1,Taoping-175_shit-1,tʃʰɿ⁵⁵,107,false,expert,Sims2020,,,,#0572
+Longxi-175_shit-1-1,Longxi-175_shit-1,tsʰə̀,107,false,expert,Sims2020,,,,#0572
+Mianchi-175_shit-1-1,Mianchi-175_shit-1,tɕʰɛ́,107,false,expert,Sims2020,,,,#0572
+Yonghe-175_shit-1-1,Yonghe-175_shit-1,ʂɨ́,107,false,expert,Sims2020,,,,#0572
+Niuwozi-175_shit-1-1,Niuwozi-175_shit-1,kɜjᶠ,107,false,expert,Sims2020,,,,#0572
+Dayang-175_shit-1-1,Dayang-175_shit-1,χqá,107,false,expert,Sims2020,,,,#0572
+Taoba-175_shit-1-1,Taoba-175_shit-1,xe⁵³,107,false,expert,Sims2020,,,,#0572
+Qinghua-175_shit-1-1,Qinghua-175_shit-1,sqa⁵⁵,107,false,expert,Sims2020,,,,#0572
+Lanping-175_shit-1-1,Lanping-175_shit-1,xqa⁵⁵,107,false,expert,Sims2020,,,,#0572
+Jiulong-175_shit-1-1,Jiulong-175_shit-1,qɛi⁵⁵,107,false,expert,Sims2020,,,,#0572
+Taoping-171_sharpengrind-1-1,Taoping-171_sharpengrind-1,suə⁵⁵,157,false,expert,Sims2020,,,,
+Longxi-171_sharpengrind-1-1,Longxi-171_sharpengrind-1,sù,157,false,expert,Sims2020,,,,
+Mianchi-171_sharpengrind-1-1,Mianchi-171_sharpengrind-1,sù,157,false,expert,Sims2020,,,,
+Niuwozi-171_sharpengrind-1-1,Niuwozi-171_sharpengrind-1,suᴿ,157,false,expert,Sims2020,,,,
+Taoba-171_sharpengrind-1-1,Taoba-171_sharpengrind-1,kʰə³⁵ sui³⁵,157,false,expert,Sims2020,,,,
+Qinghua-171_sharpengrind-1-1,Qinghua-171_sharpengrind-1,kʰə¹³ syi¹³,157,false,expert,Sims2020,,,,
+Taoping-170_sew-1-1,Taoping-170_sew-1,ʐi³¹ ʐi³¹,173,false,expert,Sims2020,,,,#2627
+Longxi-170_sew-1-1,Longxi-170_sew-1,ɹà í,173,false,expert,Sims2020,,,,#2627
+Mianchi-170_sew-1-1,Mianchi-170_sew-1,ʐì,173,false,expert,Sims2020,,,,#2627
+Yonghe-170_sew-1-1,Yonghe-170_sew-1,zɨ̀ jí,173,false,expert,Sims2020,,,,#2627
+Wadu-170_sew-1-1,Wadu-170_sew-1,dʐǐ,173,false,expert,Sims2020,,,,#2627
+Niuwozi-170_sew-1-1,Niuwozi-170_sew-1,dʐiᴿ,173,false,expert,Sims2020,,,,#2627
+Lanping-170_sew-1-1,Lanping-170_sew-1,dʐi¹³,173,false,expert,Sims2020,,,,#2627
+Taoping-167_seed-1-1,Taoping-167_seed-1,zuə³¹ zɑ²⁴¹,61,false,expert,Sims2020,,,,#3559
+Longxi-167_seed-1-1,Longxi-167_seed-1,dzueì,61,false,expert,Sims2020,,,,#3559
+Mianchi-149_pitstonebullet-1-1,Mianchi-149_pitstonebullet-1,zuì,61,false,expert,Sims2020,,,,#3559
+Taoping-166_rope-1-1,Taoping-166_rope-1,bʐe³³,184,false,expert,Sims2020,,,,#0193
+Mianchi-166_rope-1-1,Mianchi-166_rope-1,bʐè,184,false,expert,Sims2020,,,,#0193
+Wadu-166_rope-1-1,Wadu-166_rope-1,dʐwẽ̌,184,false,expert,Sims2020,,,,#0193
+Niuwozi-166_rope-1-1,Niuwozi-166_rope-1,bʴjẽᴿ,184,false,expert,Sims2020,,,,#0193
+Dayang-166_rope-1-1,Dayang-166_rope-1,bʐẽ̌,184,false,expert,Sims2020,,,,#0193
+Taoba-166_rope-1-1,Taoba-166_rope-1,bʐẽ³⁵,184,false,expert,Sims2020,,,,#0193
+Qinghua-166_rope-1-1,Qinghua-166_rope-1,bʐə̃¹³,184,false,expert,Sims2020,,,,#0193
+Lanping-166_rope-1-1,Lanping-166_rope-1,bʐə̃¹³,184,false,expert,Sims2020,,,,#0193
+Taoping-159_red-1-1,Taoping-159_red-1,χȵi³¹ ȵi³³,191,false,expert,Sims2020,,,,#2499
+Longxi-159_red-1-1,Longxi-159_red-1,ɕí,191,false,expert,Sims2020,,,,#2499
+Mianchi-159_red-1-1,Mianchi-159_red-1,nə́,191,false,expert,Sims2020,,,,#2499
+Yonghe-159_red-1-1,Yonghe-159_red-1,xí,191,false,expert,Sims2020,,,,#2499
+Niuwozi-159_red-1-1,Niuwozi-159_red-1,neᴴ,191,false,expert,Sims2020,,,,#2499
+Dayang-159_red-1-1,Dayang-159_red-1,ȵé,191,false,expert,Sims2020,,,,#2499
+Taoba-159_red-1-1,Taoba-159_red-1,ȵɛ⁵⁵ mə⁵³,191,false,expert,Sims2020,,,,#2499
+Qinghua-159_red-1-1,Qinghua-159_red-1,ȵø⁵⁵,191,false,expert,Sims2020,,,,#2499
+Lanping-159_red-1-1,Lanping-159_red-1,ȵø⁵⁵,191,false,expert,Sims2020,,,,#2499
 Jiulong-34_copperredpurecopper-1-1,Jiulong-34_copperredpurecopper-1,ȵẽ⁵⁵,191,false,expert,Sims2020,,,,#2499
-Taoping-159_raw-1-1,Taoping-159_raw-1,ʂe⁵⁵,16,false,expert,Sims2020,,,,#1005
-Taoba-159_raw-1-1,Taoba-159_raw-1,sə⁵⁵ sə⁵⁵ mə⁵³,16,false,expert,Sims2020,,,,#1005
-Qinghua-159_raw-1-1,Qinghua-159_raw-1,sə⁵⁵ sə⁵⁵,16,false,expert,Sims2020,,,,#1005
-Lanping-159_raw-1-1,Lanping-159_raw-1,sə⁵⁵ sə⁵⁵,16,false,expert,Sims2020,,,,#1005
-Taoping-156_price-1-1,Taoping-156_price-1,pʰə³³,123,false,expert,Sims2020,,,,#2583
-Longxi-156_price-1-1,Longxi-156_price-1,pʰù,123,false,expert,Sims2020,,,,#2583
-Mianchi-156_price-1-1,Mianchi-156_price-1,pʰɛ̀,123,false,expert,Sims2020,,,,#2583
-Wadu-156_price-1-1,Wadu-156_price-1,pʰʉ̌,123,false,expert,Sims2020,,,,#2583
-Niuwozi-156_price-1-1,Niuwozi-156_price-1,pʰʴʉᴿ,123,false,expert,Sims2020,,,,#2583
-Dayang-156_price-1-1,Dayang-156_price-1,pʰǔ,123,false,expert,Sims2020,,,,#2583
-Taoba-156_price-1-1,Taoba-156_price-1,pʰu³⁵,123,false,expert,Sims2020,,,,#2583
-Qinghua-156_price-1-1,Qinghua-156_price-1,pʰu¹³,123,false,expert,Sims2020,,,,#2583
-Jiulong-156_price-1-1,Jiulong-156_price-1,pʰy⁵⁵ qo⁵⁵,123,false,expert,Sims2020,,,,#2583
-Taoping-151_platedish-1-1,Taoping-151_platedish-1,be³³,48,false,expert,Sims2020,,,,
-Taoping-149_pig-1-1,Taoping-149_pig-1,pa³³,119,false,expert,Sims2020,,,,#1006
-Longxi-149_pig-1-1,Longxi-149_pig-1,pià,119,false,expert,Sims2020,,,,#1006
-Mianchi-149_pig-1-1,Mianchi-149_pig-1,pià,119,false,expert,Sims2020,,,,#1006
-Yonghe-149_pig-1-1,Yonghe-149_pig-1,pæ̌,119,false,expert,Sims2020,,,,#1006
-Wadu-149_pig-1-1,Wadu-149_pig-1,tɕʰwæ̌,119,false,expert,Sims2020,,,,#1006
-Niuwozi-149_pig-1-1,Niuwozi-149_pig-1,tʃʰɥǎᴿ,119,false,expert,Sims2020,,,,#1006
-Dayang-149_pig-1-1,Dayang-149_pig-1,tʃʰɥǎ,119,false,expert,Sims2020,,,,#1006
-Taoba-149_pig-1-1,Taoba-149_pig-1,tɕyɛ³⁵,119,false,expert,Sims2020,,,,#1006
-Qinghua-149_pig-1-1,Qinghua-149_pig-1,pʰʒɑ¹³,119,false,expert,Sims2020,,,,#1006
-Lanping-149_pig-1-1,Lanping-149_pig-1,pʰʃɑ¹³,119,false,expert,Sims2020,,,,#1006
-Jiulong-149_pig-1-1,Jiulong-149_pig-1,tɕyə³⁵,119,false,expert,Sims2020,,,,#1006
-Taoping-147_peopleclan-1-1,Taoping-147_peopleclan-1,χma³³,52,false,expert,Sims2020,,,,
-Longxi-147_peopleclan-1-1,Longxi-147_peopleclan-1,mà,52,false,expert,Sims2020,,,,
-Mianchi-147_peopleclan-1-1,Mianchi-147_peopleclan-1,mà,52,false,expert,Sims2020,,,,
-Yonghe-147_peopleclan-1-1,Yonghe-147_peopleclan-1,mə̌ʴ,52,false,expert,Sims2020,,,,
-Taoping-145_patchv-1-1,Taoping-145_patchv-1,χpe³³,121,false,expert,Sims2020,,,,#2548
-Longxi-144_patchn-1-1,Longxi-144_patchn-1,pà qó,121,false,expert,Sims2020,,,,#2548
-Mianchi-143_patchn-1-1,Mianchi-143_patchn-1,pɛ_tʂʰì,121,false,expert,Sims2020,,,,#2548
-Niuwozi-145_patchv-1-1,Niuwozi-145_patchv-1,pʰeᴿ,121,false,expert,Sims2020,,,,#2548
-Dayang-145_patchv-1-1,Dayang-145_patchv-1,ɸpʰyě,121,false,expert,Sims2020,,,,#2548
-Taoba-145_patchv-1-1,Taoba-145_patchv-1,xə³⁵ pʰiɛ³⁵,121,false,expert,Sims2020,,,,#2548
-Qinghua-145_patchv-1-1,Qinghua-145_patchv-1,xə¹³ fpʰɛ¹³,121,false,expert,Sims2020,,,,#2548
-Lanping-145_patchv-1-1,Lanping-145_patchv-1,xə¹³ spʰɛ¹³,121,false,expert,Sims2020,,,,#2548
-Jiulong-145_patchv-1-1,Jiulong-145_patchv-1,pʰa¹¹ la¹¹ de³⁵,121,false,expert,Sims2020,,,,#2548
-Taoping-142_pantstrousers-1-1,Taoping-142_pantstrousers-1,iɑ³¹ ʃɿ³³,179,false,expert,Sims2020,,,,#5571
-Mianchi-141_pantsleg-1-1,Mianchi-141_pantsleg-1,ʐɛ̀ tì gù gú,179,false,expert,Sims2020,,,,#5571
-Wadu-142_pantstrousers-1-1,Wadu-142_pantstrousers-1,ʑə̌,179,false,expert,Sims2020,,,,#5571
-Taoba-142_pantstrousers-1-1,Taoba-142_pantstrousers-1,ʑɨ³⁵,179,false,expert,Sims2020,,,,#5571
-Taoping-139_overflow-1-1,Taoping-139_overflow-1,bə³³,50,false,expert,Sims2020,,,,
-Taoping-137_open-1-1,Taoping-137_open-1,pʰʐa⁵⁵,3,false,expert,Sims2020,,,,
-Longxi-138_openeye-1-1,Longxi-138_openeye-1,tə̀ pʰé,3,false,expert,Sims2020,,,,
-Mianchi-137_open-1-1,Mianchi-137_open-1,pʰɚ́,3,false,expert,Sims2020,,,,
-Taoba-137_open-1-1,Taoba-137_open-1,kʰə³⁵ pʰa⁵³,3,false,expert,Sims2020,,,,
-Lanping-201_splitopenrend-1-1,Lanping-201_splitopenrend-1,tʰə¹³ pʃɑ⁵⁵,3,false,expert,Sims2020,,,,
-Jiulong-137_open-1-1,Jiulong-137_open-1,kʰɯ¹¹ pʰo⁵⁵,3,false,expert,Sims2020,,,,
-Taoping-133_nose-1-1,Taoping-133_nose-1,χȵi³¹ qo⁵⁵ pə³³,190,false,expert,Sims2020,,,,#0803
-Longxi-133_nose-1-1,Longxi-133_nose-1,tì bá-qə̀,190,false,expert,Sims2020,,,,#0803
-Mianchi-133_nose-1-1,Mianchi-133_nose-1,nə̀ qɛ́ pì,190,false,expert,Sims2020,,,,#0803
-Yonghe-133_nose-1-1,Yonghe-133_nose-1,tə̀ qɑ́ pù,190,false,expert,Sims2020,,,,#0803
-Niuwozi-133_nose-1-1,Niuwozi-133_nose-1,n̥iᴸ dʒjõᴴ,190,false,expert,Sims2020,,,,#0803
-Taoba-133_nose-1-1,Taoba-133_nose-1,n̥ə³⁵ ɣiã⁵³,190,false,expert,Sims2020,,,,#0803
-Qinghua-133_nose-1-1,Qinghua-133_nose-1,xiɛ̃¹³ dʒõ⁵⁵,190,false,expert,Sims2020,,,,#0803
-Lanping-133_nose-1-1,Lanping-133_nose-1,xiɛ̃¹³ dʒõ⁵⁵,190,false,expert,Sims2020,,,,#0803
-Jiulong-133_nose-1-1,Jiulong-133_nose-1,ȵ̥ĩ¹¹ gõ³⁵,190,false,expert,Sims2020,,,,#0803
-Taoping-131_new-1-1,Taoping-131_new-1,tsʰi⁵⁵,195,false,expert,Sims2020,,,,#6178
-Longxi-131_new-1-1,Longxi-131_new-1,tɕʰí,195,false,expert,Sims2020,,,,#6178
-Mianchi-131_new-1-1,Mianchi-131_new-1,sí,195,false,expert,Sims2020,,,,#6178
-Yonghe-131_new-1-1,Yonghe-131_new-1,sɨ́,195,false,expert,Sims2020,,,,#6178
-Niuwozi-131_new-1-1,Niuwozi-131_new-1,ʃiᴿ,195,false,expert,Sims2020,,,,#6178
-Taoba-131_new-1-1,Taoba-131_new-1,ɕi⁵⁵ ɕi⁵⁵ mə⁵³,195,false,expert,Sims2020,,,,#6178
-Qinghua-131_new-1-1,Qinghua-131_new-1,ʂi¹³ ʂi¹³,195,false,expert,Sims2020,,,,#6178
-Lanping-131_new-1-1,Lanping-131_new-1,ʂi¹³ ʂi¹³,195,false,expert,Sims2020,,,,#6178
-Jiulong-131_new-1-1,Jiulong-131_new-1,sə⁵⁵ pa⁵⁵,195,false,expert,Sims2020,,,,#6178
-Taoping-130_nephwe-1-1,Taoping-130_nephwe-1,dʑi³¹,33,false,expert,Sims2020,,,,
+Taoping-158_raw-1-1,Taoping-158_raw-1,ʂe⁵⁵,16,false,expert,Sims2020,,,,#1005
+Taoba-158_raw-1-1,Taoba-158_raw-1,sə⁵⁵ sə⁵⁵ mə⁵³,16,false,expert,Sims2020,,,,#1005
+Qinghua-158_raw-1-1,Qinghua-158_raw-1,sə⁵⁵ sə⁵⁵,16,false,expert,Sims2020,,,,#1005
+Lanping-158_raw-1-1,Lanping-158_raw-1,sə⁵⁵ sə⁵⁵,16,false,expert,Sims2020,,,,#1005
+Taoping-155_price-1-1,Taoping-155_price-1,pʰə³³,123,false,expert,Sims2020,,,,#2583
+Longxi-155_price-1-1,Longxi-155_price-1,pʰù,123,false,expert,Sims2020,,,,#2583
+Mianchi-155_price-1-1,Mianchi-155_price-1,pʰɛ̀,123,false,expert,Sims2020,,,,#2583
+Wadu-155_price-1-1,Wadu-155_price-1,pʰʉ̌,123,false,expert,Sims2020,,,,#2583
+Niuwozi-155_price-1-1,Niuwozi-155_price-1,pʰʴʉᴿ,123,false,expert,Sims2020,,,,#2583
+Dayang-155_price-1-1,Dayang-155_price-1,pʰǔ,123,false,expert,Sims2020,,,,#2583
+Taoba-155_price-1-1,Taoba-155_price-1,pʰu³⁵,123,false,expert,Sims2020,,,,#2583
+Qinghua-155_price-1-1,Qinghua-155_price-1,pʰu¹³,123,false,expert,Sims2020,,,,#2583
+Jiulong-155_price-1-1,Jiulong-155_price-1,pʰy⁵⁵ qo⁵⁵,123,false,expert,Sims2020,,,,#2583
+Taoping-150_platedish-1-1,Taoping-150_platedish-1,be³³,48,false,expert,Sims2020,,,,
+Taoping-148_pig-1-1,Taoping-148_pig-1,pa³³,119,false,expert,Sims2020,,,,#1006
+Longxi-148_pig-1-1,Longxi-148_pig-1,pià,119,false,expert,Sims2020,,,,#1006
+Mianchi-148_pig-1-1,Mianchi-148_pig-1,pià,119,false,expert,Sims2020,,,,#1006
+Yonghe-148_pig-1-1,Yonghe-148_pig-1,pæ̌,119,false,expert,Sims2020,,,,#1006
+Wadu-148_pig-1-1,Wadu-148_pig-1,tɕʰwæ̌,119,false,expert,Sims2020,,,,#1006
+Niuwozi-148_pig-1-1,Niuwozi-148_pig-1,tʃʰɥǎᴿ,119,false,expert,Sims2020,,,,#1006
+Dayang-148_pig-1-1,Dayang-148_pig-1,tʃʰɥǎ,119,false,expert,Sims2020,,,,#1006
+Taoba-148_pig-1-1,Taoba-148_pig-1,tɕyɛ³⁵,119,false,expert,Sims2020,,,,#1006
+Qinghua-148_pig-1-1,Qinghua-148_pig-1,pʰʒɑ¹³,119,false,expert,Sims2020,,,,#1006
+Lanping-148_pig-1-1,Lanping-148_pig-1,pʰʃɑ¹³,119,false,expert,Sims2020,,,,#1006
+Jiulong-148_pig-1-1,Jiulong-148_pig-1,tɕyə³⁵,119,false,expert,Sims2020,,,,#1006
+Taoping-146_peopleclan-1-1,Taoping-146_peopleclan-1,χma³³,52,false,expert,Sims2020,,,,
+Longxi-146_peopleclan-1-1,Longxi-146_peopleclan-1,mà,52,false,expert,Sims2020,,,,
+Mianchi-146_peopleclan-1-1,Mianchi-146_peopleclan-1,mà,52,false,expert,Sims2020,,,,
+Yonghe-146_peopleclan-1-1,Yonghe-146_peopleclan-1,mə̌ʴ,52,false,expert,Sims2020,,,,
+Taoping-144_patchv-1-1,Taoping-144_patchv-1,χpe³³,121,false,expert,Sims2020,,,,#2548
+Longxi-143_patchn-1-1,Longxi-143_patchn-1,pà qó,121,false,expert,Sims2020,,,,#2548
+Mianchi-142_patchn-1-1,Mianchi-142_patchn-1,pɛ_tʂʰì,121,false,expert,Sims2020,,,,#2548
+Niuwozi-144_patchv-1-1,Niuwozi-144_patchv-1,pʰeᴿ,121,false,expert,Sims2020,,,,#2548
+Dayang-144_patchv-1-1,Dayang-144_patchv-1,ɸpʰyě,121,false,expert,Sims2020,,,,#2548
+Taoba-144_patchv-1-1,Taoba-144_patchv-1,xə³⁵ pʰiɛ³⁵,121,false,expert,Sims2020,,,,#2548
+Qinghua-144_patchv-1-1,Qinghua-144_patchv-1,xə¹³ fpʰɛ¹³,121,false,expert,Sims2020,,,,#2548
+Lanping-144_patchv-1-1,Lanping-144_patchv-1,xə¹³ spʰɛ¹³,121,false,expert,Sims2020,,,,#2548
+Jiulong-144_patchv-1-1,Jiulong-144_patchv-1,pʰa¹¹ la¹¹ de³⁵,121,false,expert,Sims2020,,,,#2548
+Taoping-141_pantstrousers-1-1,Taoping-141_pantstrousers-1,iɑ³¹ ʃɿ³³,179,false,expert,Sims2020,,,,#5571
+Wadu-141_pantstrousers-1-1,Wadu-141_pantstrousers-1,ʑə̌,179,false,expert,Sims2020,,,,#5571
+Taoba-141_pantstrousers-1-1,Taoba-141_pantstrousers-1,ʑɨ³⁵,179,false,expert,Sims2020,,,,#5571
+Taoping-138_overflow-1-1,Taoping-138_overflow-1,bə³³,50,false,expert,Sims2020,,,,
+Taoping-136_open-1-1,Taoping-136_open-1,pʰʐa⁵⁵,3,false,expert,Sims2020,,,,
+Longxi-137_openeye-1-1,Longxi-137_openeye-1,tə̀ pʰé,3,false,expert,Sims2020,,,,
+Mianchi-136_open-1-1,Mianchi-136_open-1,pʰɚ́,3,false,expert,Sims2020,,,,
+Taoba-136_open-1-1,Taoba-136_open-1,kʰə³⁵ pʰa⁵³,3,false,expert,Sims2020,,,,
+Lanping-200_splitopenrend-1-1,Lanping-200_splitopenrend-1,tʰə¹³ pʃɑ⁵⁵,3,false,expert,Sims2020,,,,
+Jiulong-136_open-1-1,Jiulong-136_open-1,kʰɯ¹¹ pʰo⁵⁵,3,false,expert,Sims2020,,,,
+Taoping-132_nose-1-1,Taoping-132_nose-1,χȵi³¹ qo⁵⁵ pə³³,190,false,expert,Sims2020,,,,#0803
+Longxi-132_nose-1-1,Longxi-132_nose-1,tì bá-qə̀,190,false,expert,Sims2020,,,,#0803
+Mianchi-132_nose-1-1,Mianchi-132_nose-1,nə̀ qɛ́ pì,190,false,expert,Sims2020,,,,#0803
+Yonghe-132_nose-1-1,Yonghe-132_nose-1,tə̀ qɑ́ pù,190,false,expert,Sims2020,,,,#0803
+Niuwozi-132_nose-1-1,Niuwozi-132_nose-1,n̥iᴸ dʒjõᴴ,190,false,expert,Sims2020,,,,#0803
+Taoba-132_nose-1-1,Taoba-132_nose-1,n̥ə³⁵ ɣiã⁵³,190,false,expert,Sims2020,,,,#0803
+Qinghua-132_nose-1-1,Qinghua-132_nose-1,xiɛ̃¹³ dʒõ⁵⁵,190,false,expert,Sims2020,,,,#0803
+Lanping-132_nose-1-1,Lanping-132_nose-1,xiɛ̃¹³ dʒõ⁵⁵,190,false,expert,Sims2020,,,,#0803
+Jiulong-132_nose-1-1,Jiulong-132_nose-1,ȵ̥ĩ¹¹ gõ³⁵,190,false,expert,Sims2020,,,,#0803
+Taoping-130_new-1-1,Taoping-130_new-1,tsʰi⁵⁵,195,false,expert,Sims2020,,,,#6178
+Longxi-130_new-1-1,Longxi-130_new-1,tɕʰí,195,false,expert,Sims2020,,,,#6178
+Mianchi-130_new-1-1,Mianchi-130_new-1,sí,195,false,expert,Sims2020,,,,#6178
+Yonghe-130_new-1-1,Yonghe-130_new-1,sɨ́,195,false,expert,Sims2020,,,,#6178
+Niuwozi-130_new-1-1,Niuwozi-130_new-1,ʃiᴿ,195,false,expert,Sims2020,,,,#6178
+Taoba-130_new-1-1,Taoba-130_new-1,ɕi⁵⁵ ɕi⁵⁵ mə⁵³,195,false,expert,Sims2020,,,,#6178
+Qinghua-130_new-1-1,Qinghua-130_new-1,ʂi¹³ ʂi¹³,195,false,expert,Sims2020,,,,#6178
+Lanping-130_new-1-1,Lanping-130_new-1,ʂi¹³ ʂi¹³,195,false,expert,Sims2020,,,,#6178
+Jiulong-130_new-1-1,Jiulong-130_new-1,sə⁵⁵ pa⁵⁵,195,false,expert,Sims2020,,,,#6178
+Taoping-128_nephew-1-1,Taoping-128_nephew-1,dʑi³¹,33,false,expert,Sims2020,,,,
 Longxi-128_nephew-1-1,Longxi-128_nephew-1,dʑì qʰuá,33,false,expert,Sims2020,,,,
 Mianchi-128_nephew-1-1,Mianchi-128_nephew-1,dʑì,33,false,expert,Sims2020,,,,
 Niuwozi-129_nephewpaternal-1-1,Niuwozi-129_nephewpaternal-1,djuᴿ,33,false,expert,Sims2020,,,,
@@ -429,10 +428,10 @@ Jiulong-109_left-1-1,Jiulong-109_left-1,we³⁵,28,false,expert,Sims2020,,,,#215
 Taoping-108_learnteach-1-1,Taoping-108_learnteach-1,tə¹³-sy⁵⁵,15,false,expert,Sims2020,,,,
 Longxi-108_learnteach-1-1,Longxi-108_learnteach-1,só,15,false,expert,Sims2020,,,,
 Mianchi-108_learnteach-1-1,Mianchi-108_learnteach-1,soú,15,false,expert,Sims2020,,,,
-Yonghe-215_teach-1-1,Yonghe-215_teach-1,ɕwí,15,false,expert,Sims2020,,,,
+Yonghe-214_teach-1-1,Yonghe-214_teach-1,ɕwí,15,false,expert,Sims2020,,,,
 Wadu-108_learnteach-1-1,Wadu-108_learnteach-1,swẽ́,15,false,expert,Sims2020,,,,
-Niuwozi-215_teach-1-1,Niuwozi-215_teach-1,sʉᴴ sɥɛ̃ᴸ,15,false,expert,Sims2020,,,,
-Dayang-215_teach-1-1,Dayang-215_teach-1,swĩ́,15,false,expert,Sims2020,,,,
+Niuwozi-214_teach-1-1,Niuwozi-214_teach-1,sʉᴴ sɥɛ̃ᴸ,15,false,expert,Sims2020,,,,
+Dayang-214_teach-1-1,Dayang-214_teach-1,swĩ́,15,false,expert,Sims2020,,,,
 Taoba-107_learnteach-1-1,Taoba-107_learnteach-1,xə³⁵ suẽ⁵³,15,false,expert,Sims2020,,,,
 Qinghua-107_learnteach-1-1,Qinghua-107_learnteach-1,xə¹³ syẽ⁵⁵,15,false,expert,Sims2020,,,,
 Lanping-107_learnteach-1-1,Lanping-107_learnteach-1,sy⁵⁵ syɛ̃¹³,15,false,expert,Sims2020,,,,
@@ -611,8 +610,8 @@ Yonghe-43_deity-1-1,Yonghe-43_deity-1,sɨ́,110,false,expert,Sims2020,,,,
 Wadu-43_deity-1-1,Wadu-43_deity-1,hí,110,false,expert,Sims2020,,,,
 Niuwozi-43_deity-1-1,Niuwozi-43_deity-1,xeᴴ,110,false,expert,Sims2020,,,,
 Dayang-43_deity-1-1,Dayang-43_deity-1,ɕé,110,false,expert,Sims2020,,,,
-Qinghua-216_temple-1-1,Qinghua-216_temple-1,ɕe⁵⁵ tʃə̃⁵⁵,110,false,expert,Sims2020,,,,
-Lanping-216_temple-1-1,Lanping-216_temple-1,ɕe⁵⁵ tʃə̃⁵⁵,110,false,expert,Sims2020,,,,
+Qinghua-215_temple-1-1,Qinghua-215_temple-1,ɕe⁵⁵ tʃə̃⁵⁵,110,false,expert,Sims2020,,,,
+Lanping-215_temple-1-1,Lanping-215_temple-1,ɕe⁵⁵ tʃə̃⁵⁵,110,false,expert,Sims2020,,,,
 Taoping-42_deaf-1-1,Taoping-42_deaf-1,ȵi³¹ kie³³ bu²⁴¹,125,false,expert,Sims2020,,,,#1409
 Longxi-42_deaf-1-1,Longxi-42_deaf-1,ȵì bò,125,false,expert,Sims2020,,,,#1409
 Mianchi-42_deaf-1-1,Mianchi-42_deaf-1,bù,125,false,expert,Sims2020,,,,#1409
@@ -673,11 +672,11 @@ Taoba-23_cat-1-1,Taoba-23_cat-1,mɐ³⁵ tsə⁵⁵,22,false,expert,Sims2020,,,,
 Qinghua-23_cat-1-1,Qinghua-23_cat-1,mɐ¹³ tsə⁵⁵,22,false,expert,Sims2020,,,,
 Jiulong-23_cat-1-1,Jiulong-23_cat-1,mu¹¹ ȵi⁵⁵,22,false,expert,Sims2020,,,,
 Taoping-22_buttocks-1-1,Taoping-22_buttocks-1,tʰɑ³¹ bɑ³³,56,false,expert,Sims2020,,,,
-Longxi-237_vulva-1-1,Longxi-237_vulva-1,tʰà bá,56,false,expert,Sims2020,,,,
+Longxi-236_vulva-1-1,Longxi-236_vulva-1,tʰà bá,56,false,expert,Sims2020,,,,
 Taoping-17_breakviofrope-1-1,Taoping-17_breakviofrope-1,bʐe³³,185,false,expert,Sims2020,,,,#1787
 Longxi-17_breakviofrope-1-1,Longxi-17_breakviofrope-1,bà,185,false,expert,Sims2020,,,,#1787
 Mianchi-17_breakviofrope-1-1,Mianchi-17_breakviofrope-1,pʰɚ̌,185,false,expert,Sims2020,,,,#1787
-Dayang-189_snapvi-1-1,Dayang-189_snapvi-1,bʐɛ̌,185,false,expert,Sims2020,,,,#1787
+Dayang-188_snapvi-1-1,Dayang-188_snapvi-1,bʐɛ̌,185,false,expert,Sims2020,,,,#1787
 Taoba-17_breakviofrope-1-1,Taoba-17_breakviofrope-1,tə³⁵ bʐɛ³⁵,185,false,expert,Sims2020,,,,#1787
 Qinghua-17_breakviofrope-1-1,Qinghua-17_breakviofrope-1,tʰə¹³ pʐɛ¹³,185,false,expert,Sims2020,,,,#1787
 Taoping-15_bone-1-1,Taoping-15_bone-1,ʐɑ³¹ kie³³,161,false,expert,Sims2020,,,,#0232
@@ -741,7 +740,7 @@ Taoba-6_beard-1-1,Taoba-6_beard-1,a³⁵ sõ⁵³,8,false,expert,Sims2020,,,,#0
 Qinghua-6_beard-1-1,Qinghua-6_beard-1,a¹³ stiɑ̃u⁵⁵,8,false,expert,Sims2020,,,,#0370
 Jiulong-6_beard-1-1,Jiulong-6_beard-1,a³³ sũ⁵⁵,8,false,expert,Sims2020,,,,#0370
 Taoping-5_bethirsty-1-1,Taoping-5_bethirsty-1,χpa⁵⁵,42,false,expert,Sims2020,,,,
-Longxi-240_waterdirectionalthirst-1-1,Longxi-240_waterdirectionalthirst-1,tsù tə̀-pià,42,false,expert,Sims2020,,,,
+Longxi-239_waterdirectionalthirst-1-1,Longxi-239_waterdirectionalthirst-1,tsù tə̀-pià,42,false,expert,Sims2020,,,,
 Mianchi-5_bethirsty-1-1,Mianchi-5_bethirsty-1,pià,42,false,expert,Sims2020,,,,
 Yonghe-5_bethirsty-1-1,Yonghe-5_bethirsty-1,tə̀-pǽ,42,false,expert,Sims2020,,,,
 Taoping-3_belong-1-1,Taoping-3_belong-1,dʐe³³,114,false,expert,Sims2020,,,,#1011
@@ -767,11 +766,11 @@ Lanping-65_fightgotowar-1-1,Lanping-65_fightgotowar-1,qo⁵⁵ qua⁵⁵,6,false
 Longxi-112_life-1-1,Longxi-112_life-1,tsɨ́,7,false,expert,Sims2020,,,,
 Lanping-113_lifespan-1-1,Lanping-113_lifespan-1,tsi⁵⁵,7,false,expert,Sims2020,,,,
 Jiulong-112_life-1-1,Jiulong-112_life-1,tsi³⁵,7,false,expert,Sims2020,,,,
-Longxi-202_stab-1-1,Longxi-202_stab-1,tɕʰí,11,false,expert,Sims2020,,,,
-Mianchi-202_stab-1-1,Mianchi-202_stab-1,tsʰoú,11,false,expert,Sims2020,,,,
-Lanping-202_stab-1-1,Lanping-202_stab-1,tsʰu⁵⁵,11,false,expert,Sims2020,,,,
-Mianchi-166_rinseflush-1-1,Mianchi-166_rinseflush-1,tʂʰuá,12,false,expert,Sims2020,,,,
-Lanping-166_rinseflush-1-1,Lanping-166_rinseflush-1,tʃʰõ⁵⁵,12,false,expert,Sims2020,,,,
+Longxi-201_stab-1-1,Longxi-201_stab-1,tɕʰí,11,false,expert,Sims2020,,,,
+Mianchi-201_stab-1-1,Mianchi-201_stab-1,tsʰoú,11,false,expert,Sims2020,,,,
+Lanping-201_stab-1-1,Lanping-201_stab-1,tsʰu⁵⁵,11,false,expert,Sims2020,,,,
+Mianchi-165_rinseflush-1-1,Mianchi-165_rinseflush-1,tʂʰuá,12,false,expert,Sims2020,,,,
+Lanping-165_rinseflush-1-1,Lanping-165_rinseflush-1,tʃʰõ⁵⁵,12,false,expert,Sims2020,,,,
 Yonghe-45_direction-1-1,Yonghe-45_direction-1,dʑí,13,false,expert,Sims2020,,,,
 Wadu-45_direction-1-1,Wadu-45_direction-1,dʑí,13,false,expert,Sims2020,,,,
 Longxi-31_clearclean-1-1,Longxi-31_clearclean-1,ɕó,14,false,expert,Sims2020,,,,#2745
@@ -781,10 +780,10 @@ Niuwozi-31_clearclean-1-1,Niuwozi-31_clearclean-1,ʂõᴴ,14,false,expert,Sims2
 Taoba-31_clearclean-1-1,Taoba-31_clearclean-1,ʂã⁵⁵ n̥iɛ⁵⁵ mə⁵³,14,false,expert,Sims2020,,,,#2745
 Qinghua-31_clearclean-1-1,Qinghua-31_clearclean-1,ʂõ⁵⁵ ne⁵⁵,14,false,expert,Sims2020,,,,#2745
 Jiulong-31_clearclean-1-1,Jiulong-31_clearclean-1,ʂã⁵⁵,14,false,expert,Sims2020,,,,#2745
-Yonghe-134_obstruct-1-1,Yonghe-134_obstruct-1,ɦæ̀ -ʑwǽ,17,false,expert,Sims2020,,,,
-Wadu-134_obstruct-1-1,Wadu-134_obstruct-1,ɐ̀ - ʐwĩ́,17,false,expert,Sims2020,,,,
-Lanping-134_obstruct-1-1,Lanping-134_obstruct-1,kʰə¹³ ʐa⁵⁵,17,false,expert,Sims2020,,,,
-Jiulong-134_obstruct-1-1,Jiulong-134_obstruct-1,xa¹¹ ʐo⁵⁵,17,false,expert,Sims2020,,,,
+Yonghe-133_obstruct-1-1,Yonghe-133_obstruct-1,ɦæ̀ -ʑwǽ,17,false,expert,Sims2020,,,,
+Wadu-133_obstruct-1-1,Wadu-133_obstruct-1,ɐ̀ - ʐwĩ́,17,false,expert,Sims2020,,,,
+Lanping-133_obstruct-1-1,Lanping-133_obstruct-1,kʰə¹³ ʐa⁵⁵,17,false,expert,Sims2020,,,,
+Jiulong-133_obstruct-1-1,Jiulong-133_obstruct-1,xa¹¹ ʐo⁵⁵,17,false,expert,Sims2020,,,,
 Mianchi-44_delicious-1-1,Mianchi-44_delicious-1,ʑé,18,false,expert,Sims2020,,,,#2221
 Yonghe-44_delicious-1-1,Yonghe-44_delicious-1,ʑí,18,false,expert,Sims2020,,,,#2221
 Wadu-44_delicious-1-1,Wadu-44_delicious-1,ʐṍ,18,false,expert,Sims2020,,,,#2221
@@ -792,91 +791,91 @@ Taoba-44_delicious-1-1,Taoba-44_delicious-1,ʐẽ⁵⁵ mə⁵³,18,false,expert
 Qinghua-44_delicious-1-1,Qinghua-44_delicious-1,ʐə̃⁵⁵ ti¹³,18,false,expert,Sims2020,,,,#2221
 Lanping-44_delicious-1-1,Lanping-44_delicious-1,ʒẽ⁵⁵ ti⁵⁵,18,false,expert,Sims2020,,,,#2221
 Jiulong-44_delicious-1-1,Jiulong-44_delicious-1,ʑĩ³⁵,18,false,expert,Sims2020,,,,#2221
-Mianchi-197_soup-1-1,Mianchi-197_soup-1,ʐɛ́,19,false,expert,Sims2020,,,,
-Dayang-197_soup-1-1,Dayang-197_soup-1,rã̌,19,false,expert,Sims2020,,,,
-Taoba-197_soup-1-1,Taoba-197_soup-1,rɛ̃⁵⁵,19,false,expert,Sims2020,,,,
-Qinghua-197_soup-1-1,Qinghua-197_soup-1,ʂɑ¹³ ʐã⁵⁵,19,false,expert,Sims2020,,,,
-Lanping-197_soup-1-1,Lanping-197_soup-1,ʂɑ¹³ ʐã⁵⁵,19,false,expert,Sims2020,,,,
-Longxi-239_warmselfbyfire-1-1,Longxi-239_warmselfbyfire-1,mù lé,21,false,expert,Sims2020,,,,
-Taoba-239_warmselfbyfire-1-1,Taoba-239_warmselfbyfire-1,ma³⁵ liã⁵⁵,21,false,expert,Sims2020,,,,
-Qinghua-239_warmselfbyfire-1-1,Qinghua-239_warmselfbyfire-1,mɐ¹³ lɛ̃⁵⁵,21,false,expert,Sims2020,,,,
-Lanping-239_warmselfbyfire-1-1,Lanping-239_warmselfbyfire-1,mɐ¹³ lɛ̃⁵⁵,21,false,expert,Sims2020,,,,
-Jiulong-239_warmselfbyfire-1-1,Jiulong-239_warmselfbyfire-1,ma³⁵ ɬə̃⁵⁵,21,false,expert,Sims2020,,,,
-Longxi-152_plown-1-1,Longxi-152_plown-1,tò,24,false,expert,Sims2020,,,,
-Mianchi-152_plown-1-1,Mianchi-152_plown-1,tò kè,24,false,expert,Sims2020,,,,
-Yonghe-152_plown-1-1,Yonghe-152_plown-1,tù kwǽ,24,false,expert,Sims2020,,,,
-Lanping-152_plown-1-1,Lanping-152_plown-1,tɑ̃u⁵⁵,24,false,expert,Sims2020,,,,
-Jiulong-152_plown-1-1,Jiulong-152_plown-1,tũ³⁵,24,false,expert,Sims2020,,,,
-Longxi-140_owl-1-1,Longxi-140_owl-1,ỳ kʰù,25,false,expert,Sims2020,,,,#2252
-Mianchi-140_owl-1-1,Mianchi-140_owl-1,kuì tòŋ kʰò,25,false,expert,Sims2020,,,,#2252
-Yonghe-140_owl-1-1,Yonghe-140_owl-1,mǽ kʰwì,25,false,expert,Sims2020,,,,#2252
-Longxi-207_stone-1-1,Longxi-207_stone-1,gò,26,false,expert,Sims2020,,,,
-Wadu-207_stone-1-1,Wadu-207_stone-1,gʉ̀ ɖóŋ,26,false,expert,Sims2020,,,,
-Niuwozi-207_stone-1-1,Niuwozi-207_stone-1,gʉᴸ bõᴴ,26,false,expert,Sims2020,,,,
-Qinghua-207_stone-1-1,Qinghua-207_stone-1,sgø¹³,26,false,expert,Sims2020,,,,
-Lanping-207_stone-1-1,Lanping-207_stone-1,zgø¹³,26,false,expert,Sims2020,,,,
-Jiulong-207_stone-1-1,Jiulong-207_stone-1,guo¹¹ lũ⁵⁵,26,false,expert,Sims2020,,,,
+Mianchi-196_soup-1-1,Mianchi-196_soup-1,ʐɛ́,19,false,expert,Sims2020,,,,
+Dayang-196_soup-1-1,Dayang-196_soup-1,rã̌,19,false,expert,Sims2020,,,,
+Taoba-196_soup-1-1,Taoba-196_soup-1,rɛ̃⁵⁵,19,false,expert,Sims2020,,,,
+Qinghua-196_soup-1-1,Qinghua-196_soup-1,ʂɑ¹³ ʐã⁵⁵,19,false,expert,Sims2020,,,,
+Lanping-196_soup-1-1,Lanping-196_soup-1,ʂɑ¹³ ʐã⁵⁵,19,false,expert,Sims2020,,,,
+Longxi-238_warmselfbyfire-1-1,Longxi-238_warmselfbyfire-1,mù lé,21,false,expert,Sims2020,,,,
+Taoba-238_warmselfbyfire-1-1,Taoba-238_warmselfbyfire-1,ma³⁵ liã⁵⁵,21,false,expert,Sims2020,,,,
+Qinghua-238_warmselfbyfire-1-1,Qinghua-238_warmselfbyfire-1,mɐ¹³ lɛ̃⁵⁵,21,false,expert,Sims2020,,,,
+Lanping-238_warmselfbyfire-1-1,Lanping-238_warmselfbyfire-1,mɐ¹³ lɛ̃⁵⁵,21,false,expert,Sims2020,,,,
+Jiulong-238_warmselfbyfire-1-1,Jiulong-238_warmselfbyfire-1,ma³⁵ ɬə̃⁵⁵,21,false,expert,Sims2020,,,,
+Longxi-151_plown-1-1,Longxi-151_plown-1,tò,24,false,expert,Sims2020,,,,
+Mianchi-151_plown-1-1,Mianchi-151_plown-1,tò kè,24,false,expert,Sims2020,,,,
+Yonghe-151_plown-1-1,Yonghe-151_plown-1,tù kwǽ,24,false,expert,Sims2020,,,,
+Lanping-151_plown-1-1,Lanping-151_plown-1,tɑ̃u⁵⁵,24,false,expert,Sims2020,,,,
+Jiulong-151_plown-1-1,Jiulong-151_plown-1,tũ³⁵,24,false,expert,Sims2020,,,,
+Longxi-139_owl-1-1,Longxi-139_owl-1,ỳ kʰù,25,false,expert,Sims2020,,,,#2252
+Mianchi-139_owl-1-1,Mianchi-139_owl-1,kuì tòŋ kʰò,25,false,expert,Sims2020,,,,#2252
+Yonghe-139_owl-1-1,Yonghe-139_owl-1,mǽ kʰwì,25,false,expert,Sims2020,,,,#2252
+Longxi-206_stone-1-1,Longxi-206_stone-1,gò,26,false,expert,Sims2020,,,,
+Wadu-206_stone-1-1,Wadu-206_stone-1,gʉ̀ ɖóŋ,26,false,expert,Sims2020,,,,
+Niuwozi-206_stone-1-1,Niuwozi-206_stone-1,gʉᴸ bõᴴ,26,false,expert,Sims2020,,,,
+Qinghua-206_stone-1-1,Qinghua-206_stone-1,sgø¹³,26,false,expert,Sims2020,,,,
+Lanping-206_stone-1-1,Lanping-206_stone-1,zgø¹³,26,false,expert,Sims2020,,,,
+Jiulong-206_stone-1-1,Jiulong-206_stone-1,guo¹¹ lũ⁵⁵,26,false,expert,Sims2020,,,,
 Longxi-20_bundle-1-1,Longxi-20_bundle-1,què,29,false,expert,Sims2020,,,,
 Mianchi-20_bundle-1-1,Mianchi-20_bundle-1,quà,29,false,expert,Sims2020,,,,
 Jiulong-19_bunchbundle-1-1,Jiulong-19_bunchbundle-1,qã¹¹,29,false,expert,Sims2020,,,,
 Longxi-77_givebirth-1-1,Longxi-77_givebirth-1,ì,37,false,expert,Sims2020,,,,
 Mianchi-77_givebirth-1-1,Mianchi-77_givebirth-1,ʑì,37,false,expert,Sims2020,,,,
 Wadu-77_givebirth-1-1,Wadu-77_givebirth-1,ʑì,37,false,expert,Sims2020,,,,
-Longxi-193_snowhailv-1-1,Longxi-193_snowhailv-1,dà zì,39,false,expert,Sims2020,,,,#0671
+Longxi-192_snowhailv-1-1,Longxi-192_snowhailv-1,dà zì,39,false,expert,Sims2020,,,,#0671
 Yonghe-83_haillitsnowhailround-1-1,Yonghe-83_haillitsnowhailround-1,pɔ̌-ʐɨ̀ lwìlwí,39,false,expert,Sims2020,,,,#0671
 Taoba-84_hailn-1-1,Taoba-84_hailn-1,ʑẽ³⁵,39,false,expert,Sims2020,,,,#0671
 Jiulong-84_hailn-1-1,Jiulong-84_hailn-1,zẽ³⁵,39,false,expert,Sims2020,,,,#0671
-Longxi-253_yawn-1-1,Longxi-253_yawn-1,hà há pù,40,false,expert,Sims2020,,,,#1716
-Mianchi-253_yawn-1-1,Mianchi-253_yawn-1,χà pú,40,false,expert,Sims2020,,,,#1716
-Wadu-253_yawn-1-1,Wadu-253_yawn-1,hɑ̀ ɕə̀,40,false,expert,Sims2020,,,,#1716
-Jiulong-253_yawn-1-1,Jiulong-253_yawn-1,xɑ¹¹ xe¹¹,40,false,expert,Sims2020,,,,#1716
-Longxi-157_priest-1-1,Longxi-157_priest-1,sɨ̀ pí,41,false,expert,Sims2020,,,,
-Mianchi-157_priest-1-1,Mianchi-157_priest-1,pí,41,false,expert,Sims2020,,,,
-Yonghe-165_riceraw-1-1,Yonghe-165_riceraw-1,kʰəʴ́,43,false,expert,Sims2020,,,,
+Longxi-252_yawn-1-1,Longxi-252_yawn-1,hà há pù,40,false,expert,Sims2020,,,,#1716
+Mianchi-252_yawn-1-1,Mianchi-252_yawn-1,χà pú,40,false,expert,Sims2020,,,,#1716
+Wadu-252_yawn-1-1,Wadu-252_yawn-1,hɑ̀ ɕə̀,40,false,expert,Sims2020,,,,#1716
+Jiulong-252_yawn-1-1,Jiulong-252_yawn-1,xɑ¹¹ xe¹¹,40,false,expert,Sims2020,,,,#1716
+Longxi-156_priest-1-1,Longxi-156_priest-1,sɨ̀ pí,41,false,expert,Sims2020,,,,
+Mianchi-156_priest-1-1,Mianchi-156_priest-1,pí,41,false,expert,Sims2020,,,,
+Yonghe-164_riceraw-1-1,Yonghe-164_riceraw-1,kʰəʴ́,43,false,expert,Sims2020,,,,
 Longxi-36_cough-1-1,Longxi-36_cough-1,tsʰú tá,44,false,expert,Sims2020,,,,
 Yonghe-36_cough-1-1,Yonghe-36_cough-1,tə̀-tsʰú,44,false,expert,Sims2020,,,,
 Longxi-55_enclosesheep-1-1,Longxi-55_enclosesheep-1,tɕʰý,45,false,expert,Sims2020,,,,
 Mianchi-55_enclosesheep-1-1,Mianchi-55_enclosesheep-1,kʰuí,45,false,expert,Sims2020,,,,
 Yonghe-54_enclose-1-1,Yonghe-54_enclose-1,tɕʰwí,45,false,expert,Sims2020,,,,
 Longxi-114_live-1-1,Longxi-114_live-1,sú,46,false,expert,Sims2020,,,,
-Yonghe-140_owl-2-1,Yonghe-140_owl-2,mǽ kʰwì,47,false,expert,Sims2020,,,,
+Yonghe-139_owl-2-1,Yonghe-139_owl-2,mǽ kʰwì,47,false,expert,Sims2020,,,,
 Longxi-64_feedraise-1-1,Longxi-64_feedraise-1,mì,53,false,expert,Sims2020,,,,
 Mianchi-64_feedraise-1-1,Mianchi-64_feedraise-1,mù,53,false,expert,Sims2020,,,,
 Yonghe-64_feedraise-1-1,Yonghe-64_feedraise-1,mǐ,53,false,expert,Sims2020,,,,
-Longxi-250_woundn-1-1,Longxi-250_woundn-1,qò mì,54,false,expert,Sims2020,,,,
-Longxi-195_soliddurable-1-1,Longxi-195_soliddurable-1,gù,58,false,expert,Sims2020,,,,
-Longxi-214_tail-1-1,Longxi-214_tail-1,suà kà,60,false,expert,Sims2020,,,,#3333
-Mianchi-214_tail-1-1,Mianchi-214_tail-1,suà kè,60,false,expert,Sims2020,,,,#3333
-Yonghe-214_tail-1-1,Yonghe-214_tail-1,sù kjɛ́,60,false,expert,Sims2020,,,,#3333
-Longxi-235_vapor-1-1,Longxi-235_vapor-1,lə̀,62,false,expert,Sims2020,,,,
-Mianchi-235_vapor-1-1,Mianchi-235_vapor-1,lè,62,false,expert,Sims2020,,,,
-Wadu-249_widebroad-1-1,Wadu-249_widebroad-1,pú H,64,false,expert,Sims2020,,,,
-Dayang-249_widebroad-1-1,Dayang-249_widebroad-1,ɸpə́w,64,false,expert,Sims2020,,,,
-Taoba-249_widebroad-1-1,Taoba-249_widebroad-1,po⁵⁵ mə⁵³,64,false,expert,Sims2020,,,,
-Qinghua-249_widebroad-1-1,Qinghua-249_widebroad-1,spo⁵⁵,64,false,expert,Sims2020,,,,
-Lanping-249_widebroad-1-1,Lanping-249_widebroad-1,fpo⁵⁵,64,false,expert,Sims2020,,,,
-Jiulong-249_widebroad-1-1,Jiulong-249_widebroad-1,po⁵⁵,64,false,expert,Sims2020,,,,
+Longxi-249_woundn-1-1,Longxi-249_woundn-1,qò mì,54,false,expert,Sims2020,,,,
+Longxi-194_soliddurable-1-1,Longxi-194_soliddurable-1,gù,58,false,expert,Sims2020,,,,
+Longxi-213_tail-1-1,Longxi-213_tail-1,suà kà,60,false,expert,Sims2020,,,,#3333
+Mianchi-213_tail-1-1,Mianchi-213_tail-1,suà kè,60,false,expert,Sims2020,,,,#3333
+Yonghe-213_tail-1-1,Yonghe-213_tail-1,sù kjɛ́,60,false,expert,Sims2020,,,,#3333
+Longxi-234_vapor-1-1,Longxi-234_vapor-1,lə̀,62,false,expert,Sims2020,,,,
+Mianchi-234_vapor-1-1,Mianchi-234_vapor-1,lè,62,false,expert,Sims2020,,,,
+Wadu-248_widebroad-1-1,Wadu-248_widebroad-1,pú H,64,false,expert,Sims2020,,,,
+Dayang-248_widebroad-1-1,Dayang-248_widebroad-1,ɸpə́w,64,false,expert,Sims2020,,,,
+Taoba-248_widebroad-1-1,Taoba-248_widebroad-1,po⁵⁵ mə⁵³,64,false,expert,Sims2020,,,,
+Qinghua-248_widebroad-1-1,Qinghua-248_widebroad-1,spo⁵⁵,64,false,expert,Sims2020,,,,
+Lanping-248_widebroad-1-1,Lanping-248_widebroad-1,fpo⁵⁵,64,false,expert,Sims2020,,,,
+Jiulong-248_widebroad-1-1,Jiulong-248_widebroad-1,po⁵⁵,64,false,expert,Sims2020,,,,
 Wadu-105_leaf-1-1,Wadu-105_leaf-1,pɑ̌,65,false,expert,Sims2020,,,,
 Niuwozi-105_leaf-1-1,Niuwozi-105_leaf-1,sɜᴸ pɑᴴ,65,false,expert,Sims2020,,,,
 Taoba-105_leaf-1-1,Taoba-105_leaf-1,pa³⁵,65,false,expert,Sims2020,,,,
 Qinghua-105_leaf-1-1,Qinghua-105_leaf-1,sɐ¹³ fpɑ⁵⁵,65,false,expert,Sims2020,,,,
 Lanping-105_leaf-1-1,Lanping-105_leaf-1,sɐ¹³,65,false,expert,Sims2020,,,,
 Jiulong-105_leaf-1-1,Jiulong-105_leaf-1,pɑ⁵⁵,65,false,expert,Sims2020,,,,
-Niuwozi-230_untie-1-1,Niuwozi-230_untie-1,pʰʴəᴴ,66,false,expert,Sims2020,,,,#5646
-Jiulong-220_throwout-1-1,Jiulong-220_throwout-1,nə¹¹_pʰə⁵⁵,67,false,expert,Sims2020,,,,#5556
-Wadu-212_sun-1-1,Wadu-212_sun-1,bʉ́,68,false,expert,Sims2020,,,,
-Niuwozi-212_sun-1-1,Niuwozi-212_sun-1,bɨᴴ,68,false,expert,Sims2020,,,,
-Taoba-212_sun-1-1,Taoba-212_sun-1,bʉ⁵³,68,false,expert,Sims2020,,,,
-Qinghua-212_sun-1-1,Qinghua-212_sun-1,by⁵⁵,68,false,expert,Sims2020,,,,
-Lanping-212_sun-1-1,Lanping-212_sun-1,by⁵⁵,68,false,expert,Sims2020,,,,
-Jiulong-212_sun-1-1,Jiulong-212_sun-1,bi³⁵,68,false,expert,Sims2020,,,,
+Niuwozi-229_untie-1-1,Niuwozi-229_untie-1,pʰʴəᴴ,66,false,expert,Sims2020,,,,#5646
+Jiulong-219_throwout-1-1,Jiulong-219_throwout-1,nə¹¹_pʰə⁵⁵,67,false,expert,Sims2020,,,,#5556
+Wadu-211_sun-1-1,Wadu-211_sun-1,bʉ́,68,false,expert,Sims2020,,,,
+Niuwozi-211_sun-1-1,Niuwozi-211_sun-1,bɨᴴ,68,false,expert,Sims2020,,,,
+Taoba-211_sun-1-1,Taoba-211_sun-1,bʉ⁵³,68,false,expert,Sims2020,,,,
+Qinghua-211_sun-1-1,Qinghua-211_sun-1,by⁵⁵,68,false,expert,Sims2020,,,,
+Lanping-211_sun-1-1,Lanping-211_sun-1,by⁵⁵,68,false,expert,Sims2020,,,,
+Jiulong-211_sun-1-1,Jiulong-211_sun-1,bi³⁵,68,false,expert,Sims2020,,,,
 Wadu-51_duck-1-1,Wadu-51_duck-1,bǽ,69,false,expert,Sims2020,,,,#5713
 Niuwozi-51_duck-1-1,Niuwozi-51_duck-1,baᴴ,69,false,expert,Sims2020,,,,#5713
 Taoba-51_duck-1-1,Taoba-51_duck-1,ba³⁵,69,false,expert,Sims2020,,,,#5713
-Niuwozi-174_sheepmaleram-1-1,Niuwozi-174_sheepmaleram-1,tʰuᴴ,70,false,expert,Sims2020,,,,
+Niuwozi-173_sheepmaleram-1-1,Niuwozi-173_sheepmaleram-1,tʰuᴴ,70,false,expert,Sims2020,,,,
 Wadu-11_blind-1-1,Wadu-11_blind-1,qǔ,71,false,expert,Sims2020,,,,
 Niuwozi-11_blind-1-1,Niuwozi-11_blind-1,kuᴴ,71,false,expert,Sims2020,,,,
-Wadu-161_redunripegreenblue-1-1,Wadu-161_redunripegreenblue-1,ní,72,false,expert,Sims2020,,,,#2531
+Wadu-160_redunripegreenblue-1-1,Wadu-160_redunripegreenblue-1,ní,72,false,expert,Sims2020,,,,#2531
 Niuwozi-80_greenblue-1-1,Niuwozi-80_greenblue-1,niᴴ,72,false,expert,Sims2020,,,,#2531
 Taoba-80_greenblue-1-1,Taoba-80_greenblue-1,ȵi⁵⁵ na⁵⁵ mə⁵³,72,false,expert,Sims2020,,,,#2531
 Lanping-102_lambkid-1-1,Lanping-102_lambkid-1,ʒɑ̃u⁵⁵ li⁵⁵,73,false,expert,Sims2020,,,,
@@ -894,16 +893,16 @@ Dayang-14_blow-1-1,Dayang-14_blow-1,m̥ə̃̌,77,false,expert,Sims2020,,,,
 Taoba-14_blow-1-1,Taoba-14_blow-1,xə³⁵ m̥ə³⁵,77,false,expert,Sims2020,,,,
 Lanping-14_blow-2-1,Lanping-14_blow-2,kʰə¹³ m̥ə¹³,77,false,expert,Sims2020,,,,
 Jiulong-14_blow-1-1,Jiulong-14_blow-1,to³⁵,77,false,expert,Sims2020,,,,
-Dayang-214_tail-1-1,Dayang-214_tail-1,mə́_ɬyé,78,false,expert,Sims2020,,,,#3560
-Taoba-214_tail-1-1,Taoba-214_tail-1,mɐ̃³⁵ ɬio⁵³,78,false,expert,Sims2020,,,,#3560
-Qinghua-214_tail-1-1,Qinghua-214_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
-Lanping-214_tail-1-1,Lanping-214_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
-Jiulong-214_tail-1-1,Jiulong-214_tail-1,mã³⁵,78,false,expert,Sims2020,,,,#3560
+Dayang-213_tail-1-1,Dayang-213_tail-1,mə́_ɬyé,78,false,expert,Sims2020,,,,#3560
+Taoba-213_tail-1-1,Taoba-213_tail-1,mɐ̃³⁵ ɬio⁵³,78,false,expert,Sims2020,,,,#3560
+Qinghua-213_tail-1-1,Qinghua-213_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
+Lanping-213_tail-1-1,Lanping-213_tail-1,mɐ¹³ ɬiɛ⁵⁵,78,false,expert,Sims2020,,,,#3560
+Jiulong-213_tail-1-1,Jiulong-213_tail-1,mã³⁵,78,false,expert,Sims2020,,,,#3560
 Taoba-26_choke-1-1,Taoba-26_choke-1,xə³⁵ tui³⁵,79,false,expert,Sims2020,,,,
-Taoba-177_shoe-1-1,Taoba-177_shoe-1,tɕyi³⁵,80,false,expert,Sims2020,,,,
-Qinghua-177_shoe-1-1,Qinghua-177_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
-Lanping-177_shoe-1-1,Lanping-177_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
-Jiulong-177_shoe-1-1,Jiulong-177_shoe-1,tsui³⁵,80,false,expert,Sims2020,,,,
+Taoba-176_shoe-1-1,Taoba-176_shoe-1,tɕyi³⁵,80,false,expert,Sims2020,,,,
+Qinghua-176_shoe-1-1,Qinghua-176_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
+Lanping-176_shoe-1-1,Lanping-176_shoe-1,tsyi¹³,80,false,expert,Sims2020,,,,
+Jiulong-176_shoe-1-1,Jiulong-176_shoe-1,tsui³⁵,80,false,expert,Sims2020,,,,
 Dayang-101_joint-1-1,Dayang-101_joint-1,tɐ-tsɛ̌j,81,false,expert,Sims2020,,,,#0418
 Lanping-101_joint-1-1,Lanping-101_joint-1,tsi⁵⁵,81,false,expert,Sims2020,,,,#0418
 Jiulong-101_joint-1-1,Jiulong-101_joint-1,tsɛi³⁵,81,false,expert,Sims2020,,,,#0418
@@ -915,33 +914,33 @@ Qinghua-18_bridge-1-1,Qinghua-18_bridge-1,dziɑ̃u¹³,83,false,expert,Sims2020,
 Lanping-18_bridge-1-1,Lanping-18_bridge-1,dziɑ̃u¹³,83,false,expert,Sims2020,,,,#3604
 Jiulong-18_bridge-1-1,Jiulong-18_bridge-1,dzã³⁵,83,false,expert,Sims2020,,,,#3604
 Wadu-92_heavy-1-1,Wadu-92_heavy-1,lɛ̀j,84,false,expert,Sims2020,,,,
-Wadu-168_seed-1-1,Wadu-168_seed-1,lɛ̌j,85,false,expert,Sims2020,,,,#3560
-Taoba-168_seed-1-1,Taoba-168_seed-1,le³⁵,85,false,expert,Sims2020,,,,#3560
-Qinghua-168_seed-1-1,Qinghua-168_seed-1,la⁵⁵,85,false,expert,Sims2020,,,,#3560
-Lanping-168_seed-1-1,Lanping-168_seed-1,la⁵⁵,85,false,expert,Sims2020,,,,#3560
-Jiulong-168_seed-1-1,Jiulong-168_seed-1,lɛi³⁵,85,false,expert,Sims2020,,,,#3560
+Wadu-167_seed-1-1,Wadu-167_seed-1,lɛ̌j,85,false,expert,Sims2020,,,,#3560
+Taoba-167_seed-1-1,Taoba-167_seed-1,le³⁵,85,false,expert,Sims2020,,,,#3560
+Qinghua-167_seed-1-1,Qinghua-167_seed-1,la⁵⁵,85,false,expert,Sims2020,,,,#3560
+Lanping-167_seed-1-1,Lanping-167_seed-1,la⁵⁵,85,false,expert,Sims2020,,,,#3560
+Jiulong-167_seed-1-1,Jiulong-167_seed-1,lɛi³⁵,85,false,expert,Sims2020,,,,#3560
 Niuwozi-72_forehead-1-1,Niuwozi-72_forehead-1,l̥oᴿ,86,false,expert,Sims2020,,,,#0392
 Dayang-72_forehead-1-1,Dayang-72_forehead-1,ɬǒ,86,false,expert,Sims2020,,,,#0392
 Taoba-72_forehead-1-1,Taoba-72_forehead-1,ɬo³⁵,86,false,expert,Sims2020,,,,#0392
 Qinghua-72_forehead-1-1,Qinghua-72_forehead-1,ɬo¹³,86,false,expert,Sims2020,,,,#0392
 Lanping-72_forehead-1-1,Lanping-72_forehead-1,ɬo¹³,86,false,expert,Sims2020,,,,#0392
-Niuwozi-175_shepherdv-1-1,Niuwozi-175_shepherdv-1,l̥iᴿ,87,false,expert,Sims2020,,,,
+Niuwozi-174_shepherdv-1-1,Niuwozi-174_shepherdv-1,l̥iᴿ,87,false,expert,Sims2020,,,,
 Taoba-79_grazevt-1-1,Taoba-79_grazevt-1,ɬi³⁵,87,false,expert,Sims2020,,,,
-Wadu-135_obtain-1-1,Wadu-135_obtain-1,ɻǐ,88,false,expert,Sims2020,,,,
-Niuwozi-135_obtain-1-1,Niuwozi-135_obtain-1,riᴿ,88,false,expert,Sims2020,,,,
+Wadu-134_obtain-1-1,Wadu-134_obtain-1,ɻǐ,88,false,expert,Sims2020,,,,
+Niuwozi-134_obtain-1-1,Niuwozi-134_obtain-1,riᴿ,88,false,expert,Sims2020,,,,
 Wadu-16_bowl-1-1,Wadu-16_bowl-1,qʰwɑ̌,89,false,expert,Sims2020,,,,#0231
 Niuwozi-16_bowl-1-1,Niuwozi-16_bowl-1,kʰwɑᴿ,89,false,expert,Sims2020,,,,#0231
 Taoba-16_bowl-1-1,Taoba-16_bowl-1,kʰua³⁵,89,false,expert,Sims2020,,,,#0231
 Qinghua-16_bowl-1-1,Qinghua-16_bowl-1,kʰuɑ¹³,89,false,expert,Sims2020,,,,#0231
 Lanping-16_bowl-1-1,Lanping-16_bowl-1,kʰuɑ¹³,89,false,expert,Sims2020,,,,#0231
-Mianchi-155_pretendfeign-1-1,Mianchi-155_pretendfeign-1,pá pù,90,false,expert,Sims2020,,,,
-Yonghe-154_pretend-1-1,Yonghe-154_pretend-1,ɸɑʴ́,90,false,expert,Sims2020,,,,
-Wadu-222_todo-1-1,Wadu-222_todo-1,pʉ́,90,false,expert,Sims2020,,,,
-Niuwozi-222_todo-1-1,Niuwozi-222_todo-1,pɑᶠ,90,false,expert,Sims2020,,,,
-Longxi-170_separatesever-1-1,Longxi-170_separatesever-1,qá tsʰé,96,false,expert,Sims2020,,,,
-Mianchi-170_separatesever-1-1,Mianchi-170_separatesever-1,kiè ká,96,false,expert,Sims2020,,,,
-Lanping-169_separatev-1-1,Lanping-169_separatev-1,xə¹³ kʰe⁵⁵,96,false,expert,Sims2020,,,,
-Jiulong-169_separatev-1-1,Jiulong-169_separatev-1,kʰə¹¹ kʰe⁵⁵ nə¹¹ ʃi¹¹,96,false,expert,Sims2020,,,,
+Mianchi-154_pretendfeign-1-1,Mianchi-154_pretendfeign-1,pá pù,90,false,expert,Sims2020,,,,
+Yonghe-153_pretend-1-1,Yonghe-153_pretend-1,ɸɑʴ́,90,false,expert,Sims2020,,,,
+Wadu-221_todo-1-1,Wadu-221_todo-1,pʉ́,90,false,expert,Sims2020,,,,
+Niuwozi-221_todo-1-1,Niuwozi-221_todo-1,pɑᶠ,90,false,expert,Sims2020,,,,
+Longxi-169_separatesever-1-1,Longxi-169_separatesever-1,qá tsʰé,96,false,expert,Sims2020,,,,
+Mianchi-169_separatesever-1-1,Mianchi-169_separatesever-1,kiè ká,96,false,expert,Sims2020,,,,
+Lanping-168_separatev-1-1,Lanping-168_separatev-1,xə¹³ kʰe⁵⁵,96,false,expert,Sims2020,,,,
+Jiulong-168_separatev-1-1,Jiulong-168_separatev-1,kʰə¹¹ kʰe⁵⁵ nə¹¹ ʃi¹¹,96,false,expert,Sims2020,,,,
 Longxi-37_cuckoo-1-1,Longxi-37_cuckoo-1,qí pù,98,false,expert,Sims2020,,,,
 Mianchi-37_cuckoo-1-1,Mianchi-37_cuckoo-1,koú pù,98,false,expert,Sims2020,,,,
 Wadu-37_cuckoo-1-1,Wadu-37_cuckoo-1,qí pù,98,false,expert,Sims2020,,,,
@@ -951,51 +950,51 @@ Yonghe-4_besour-1-1,Yonghe-4_besour-1,tswɛ́,101,false,expert,Sims2020,,,,
 Wadu-4_besour-1-1,Wadu-4_besour-1,ʈʂú,101,false,expert,Sims2020,,,,
 Niuwozi-4_besour-1-1,Niuwozi-4_besour-1,ʈʂuᴴ,101,false,expert,Sims2020,,,,
 Dayang-4_besour-1-1,Dayang-4_besour-1,tʃú,101,false,expert,Sims2020,,,,
-Yonghe-238_wait-1-1,Yonghe-238_wait-1,ʑì lwí,106,false,expert,Sims2020,,,,#5577
-Lanping-238_wait-1-1,Lanping-238_wait-1,xə¹³ liõ⁵⁵ ku⁵⁵,106,false,expert,Sims2020,,,,#5577
-Mianchi-188_snake-1-1,Mianchi-188_snake-1,bʐě,116,false,expert,Sims2020,,,,
-Wadu-188_snake-1-1,Wadu-188_snake-1,bʉ ɻɛȷ́,116,false,expert,Sims2020,,,,
-Taoba-188_snake-1-1,Taoba-188_snake-1,bɐ³⁵,116,false,expert,Sims2020,,,,
-Qinghua-188_snake-1-1,Qinghua-188_snake-1,bɐ¹³ ʐɑ⁵⁵,116,false,expert,Sims2020,,,,
-Lanping-188_snake-1-1,Lanping-188_snake-1,bɐ¹³ ʐɑ⁵⁵,116,false,expert,Sims2020,,,,
-Jiulong-188_snake-1-1,Jiulong-188_snake-1,bu¹¹ ʐɛi⁵⁵,116,false,expert,Sims2020,,,,
-Longxi-173_sheep-1-1,Longxi-173_sheep-1,ió,117,false,expert,Sims2020,,,,#6028
-Mianchi-173_sheep-1-1,Mianchi-173_sheep-1,ioú,117,false,expert,Sims2020,,,,#6028
-Wadu-173_sheep-1-1,Wadu-173_sheep-1,ʐṍ,117,false,expert,Sims2020,,,,#6028
-Niuwozi-173_sheep-1-1,Niuwozi-173_sheep-1,ʐõᴴ,117,false,expert,Sims2020,,,,#6028
-Dayang-173_sheep-1-1,Dayang-173_sheep-1,zʒoṹ,117,false,expert,Sims2020,,,,#6028
-Taoba-173_sheep-1-1,Taoba-173_sheep-1,ʐã⁵⁵,117,false,expert,Sims2020,,,,#6028
-Qinghua-173_sheep-1-1,Qinghua-173_sheep-1,ʒɑ̃u⁵⁵,117,false,expert,Sims2020,,,,#6028
-Lanping-173_sheep-1-1,Lanping-173_sheep-1,ʒɑ̃u⁵⁵,117,false,expert,Sims2020,,,,#6028
-Jiulong-173_sheep-1-1,Jiulong-173_sheep-1,ʒõ³⁵,117,false,expert,Sims2020,,,,#6028
-Longxi-158_pus-1-1,Longxi-158_pus-1,pù,120,false,expert,Sims2020,,,,#1293
-Mianchi-158_pus-1-1,Mianchi-158_pus-1,pù,120,false,expert,Sims2020,,,,#1293
-Dayang-158_pus-1-1,Dayang-158_pus-1,ɸpɨ̌,120,false,expert,Sims2020,,,,#1293
-Qinghua-158_pus-1-1,Qinghua-158_pus-1,spy¹³,120,false,expert,Sims2020,,,,#1293
-Lanping-158_pus-1-1,Lanping-158_pus-1,fpy¹³,120,false,expert,Sims2020,,,,#1293
-Jiulong-158_pus-1-1,Jiulong-158_pus-1,pu⁵⁵,120,false,expert,Sims2020,,,,#1293
-Longxi-200_splashsprinkle-1-1,Longxi-200_splashsprinkle-1,pʰà,122,false,expert,Sims2020,,,,
-Mianchi-200_splashsprinkle-1-1,Mianchi-200_splashsprinkle-1,pʰɛ̀,122,false,expert,Sims2020,,,,
-Lanping-200_splashsprinkle-1-1,Lanping-200_splashsprinkle-1,pʂɛ¹³,122,false,expert,Sims2020,,,,
-Jiulong-200_splashsprinkle-1-1,Jiulong-200_splashsprinkle-1,pʐɛ̃⁵⁵,122,false,expert,Sims2020,,,,
+Yonghe-237_wait-1-1,Yonghe-237_wait-1,ʑì lwí,106,false,expert,Sims2020,,,,#5577
+Lanping-237_wait-1-1,Lanping-237_wait-1,xə¹³ liõ⁵⁵ ku⁵⁵,106,false,expert,Sims2020,,,,#5577
+Mianchi-187_snake-1-1,Mianchi-187_snake-1,bʐě,116,false,expert,Sims2020,,,,
+Wadu-187_snake-1-1,Wadu-187_snake-1,bʉ ɻɛȷ́,116,false,expert,Sims2020,,,,
+Taoba-187_snake-1-1,Taoba-187_snake-1,bɐ³⁵,116,false,expert,Sims2020,,,,
+Qinghua-187_snake-1-1,Qinghua-187_snake-1,bɐ¹³ ʐɑ⁵⁵,116,false,expert,Sims2020,,,,
+Lanping-187_snake-1-1,Lanping-187_snake-1,bɐ¹³ ʐɑ⁵⁵,116,false,expert,Sims2020,,,,
+Jiulong-187_snake-1-1,Jiulong-187_snake-1,bu¹¹ ʐɛi⁵⁵,116,false,expert,Sims2020,,,,
+Longxi-172_sheep-1-1,Longxi-172_sheep-1,ió,117,false,expert,Sims2020,,,,#6028
+Mianchi-172_sheep-1-1,Mianchi-172_sheep-1,ioú,117,false,expert,Sims2020,,,,#6028
+Wadu-172_sheep-1-1,Wadu-172_sheep-1,ʐṍ,117,false,expert,Sims2020,,,,#6028
+Niuwozi-172_sheep-1-1,Niuwozi-172_sheep-1,ʐõᴴ,117,false,expert,Sims2020,,,,#6028
+Dayang-172_sheep-1-1,Dayang-172_sheep-1,zʒoṹ,117,false,expert,Sims2020,,,,#6028
+Taoba-172_sheep-1-1,Taoba-172_sheep-1,ʐã⁵⁵,117,false,expert,Sims2020,,,,#6028
+Qinghua-172_sheep-1-1,Qinghua-172_sheep-1,ʒɑ̃u⁵⁵,117,false,expert,Sims2020,,,,#6028
+Lanping-172_sheep-1-1,Lanping-172_sheep-1,ʒɑ̃u⁵⁵,117,false,expert,Sims2020,,,,#6028
+Jiulong-172_sheep-1-1,Jiulong-172_sheep-1,ʒõ³⁵,117,false,expert,Sims2020,,,,#6028
+Longxi-157_pus-1-1,Longxi-157_pus-1,pù,120,false,expert,Sims2020,,,,#1293
+Mianchi-157_pus-1-1,Mianchi-157_pus-1,pù,120,false,expert,Sims2020,,,,#1293
+Dayang-157_pus-1-1,Dayang-157_pus-1,ɸpɨ̌,120,false,expert,Sims2020,,,,#1293
+Qinghua-157_pus-1-1,Qinghua-157_pus-1,spy¹³,120,false,expert,Sims2020,,,,#1293
+Lanping-157_pus-1-1,Lanping-157_pus-1,fpy¹³,120,false,expert,Sims2020,,,,#1293
+Jiulong-157_pus-1-1,Jiulong-157_pus-1,pu⁵⁵,120,false,expert,Sims2020,,,,#1293
+Longxi-199_splashsprinkle-1-1,Longxi-199_splashsprinkle-1,pʰà,122,false,expert,Sims2020,,,,
+Mianchi-199_splashsprinkle-1-1,Mianchi-199_splashsprinkle-1,pʰɛ̀,122,false,expert,Sims2020,,,,
+Lanping-199_splashsprinkle-1-1,Lanping-199_splashsprinkle-1,pʂɛ¹³,122,false,expert,Sims2020,,,,
+Jiulong-199_splashsprinkle-1-1,Jiulong-199_splashsprinkle-1,pʐɛ̃⁵⁵,122,false,expert,Sims2020,,,,
 Longxi-87_hammern-1-1,Longxi-87_hammern-1,tuà liò,128,false,expert,Sims2020,,,,#0676
 Mianchi-87_hammern-1-1,Mianchi-87_hammern-1,tuà liò,128,false,expert,Sims2020,,,,#0676
-Wadu-224_tohammer-1-1,Wadu-224_tohammer-1,tɑ̌,128,false,expert,Sims2020,,,,#0676
-Taoba-224_tohammer-1-1,Taoba-224_tohammer-1,xə³⁵ ta³⁵,128,false,expert,Sims2020,,,,#0676
-Qinghua-224_tohammer-1-1,Qinghua-224_tohammer-1,xə¹³ stɑ¹³,128,false,expert,Sims2020,,,,#0676
+Wadu-223_tohammer-1-1,Wadu-223_tohammer-1,tɑ̌,128,false,expert,Sims2020,,,,#0676
+Taoba-223_tohammer-1-1,Taoba-223_tohammer-1,xə³⁵ ta³⁵,128,false,expert,Sims2020,,,,#0676
+Qinghua-223_tohammer-1-1,Qinghua-223_tohammer-1,xə¹³ stɑ¹³,128,false,expert,Sims2020,,,,#0676
 Longxi-48_drillauger-1-1,Longxi-48_drillauger-1,ȵò,129,false,expert,Sims2020,,,,
 Jiulong-47_drillv-1-1,Jiulong-47_drillv-1,ȵ̩ĩ¹¹ by³⁵,129,false,expert,Sims2020,,,,
-Longxi-229_triphammerforhullingrice-1-1,Longxi-229_triphammerforhullingrice-1,tʰiò,130,false,expert,Sims2020,,,,
-Dayang-229_triphammerforhullingrice-1-1,Dayang-229_triphammerforhullingrice-1,ʃtʃǐ,130,false,expert,Sims2020,,,,
-Lanping-229_triphammerforhullingrice-1-1,Lanping-229_triphammerforhullingrice-1,ʃtʃi¹³,130,false,expert,Sims2020,,,,
-Longxi-187_small-1-1,Longxi-187_small-1,tsù,151,false,expert,Sims2020,,,,
-Mianchi-187_small-1-1,Mianchi-187_small-1,tsù,151,false,expert,Sims2020,,,,
-Yonghe-187_small-1-1,Yonghe-187_small-1,tsə̌,151,false,expert,Sims2020,,,,
-Wadu-187_small-1-1,Wadu-187_small-1,qʰɐ tsɛ̌j,151,false,expert,Sims2020,,,,
-Niuwozi-187_small-1-1,Niuwozi-187_small-1,kɜᴸ tsɜjᴿ,151,false,expert,Sims2020,,,,
-Taoba-187_small-1-1,Taoba-187_small-1,ka³⁵ tse³⁵ mə⁵³,151,false,expert,Sims2020,,,,
-Qinghua-187_small-1-1,Qinghua-187_small-1,qa¹³ tsɛ³⁵,151,false,expert,Sims2020,,,,
-Lanping-187_small-1-1,Lanping-187_small-1,qa¹³ tsɛ¹³,151,false,expert,Sims2020,,,,
+Longxi-228_triphammerforhullingrice-1-1,Longxi-228_triphammerforhullingrice-1,tʰiò,130,false,expert,Sims2020,,,,
+Dayang-228_triphammerforhullingrice-1-1,Dayang-228_triphammerforhullingrice-1,ʃtʃǐ,130,false,expert,Sims2020,,,,
+Lanping-228_triphammerforhullingrice-1-1,Lanping-228_triphammerforhullingrice-1,ʃtʃi¹³,130,false,expert,Sims2020,,,,
+Longxi-186_small-1-1,Longxi-186_small-1,tsù,151,false,expert,Sims2020,,,,
+Mianchi-186_small-1-1,Mianchi-186_small-1,tsù,151,false,expert,Sims2020,,,,
+Yonghe-186_small-1-1,Yonghe-186_small-1,tsə̌,151,false,expert,Sims2020,,,,
+Wadu-186_small-1-1,Wadu-186_small-1,qʰɐ tsɛ̌j,151,false,expert,Sims2020,,,,
+Niuwozi-186_small-1-1,Niuwozi-186_small-1,kɜᴸ tsɜjᴿ,151,false,expert,Sims2020,,,,
+Taoba-186_small-1-1,Taoba-186_small-1,ka³⁵ tse³⁵ mə⁵³,151,false,expert,Sims2020,,,,
+Qinghua-186_small-1-1,Qinghua-186_small-1,qa¹³ tsɛ³⁵,151,false,expert,Sims2020,,,,
+Lanping-186_small-1-1,Lanping-186_small-1,qa¹³ tsɛ¹³,151,false,expert,Sims2020,,,,
 Longxi-58_fatofhumans-1-1,Longxi-58_fatofhumans-1,tsʰɨ̀,153,false,expert,Sims2020,,,,#0042
 Wadu-57_fat-1-1,Wadu-57_fat-1,tsʰə̀,153,false,expert,Sims2020,,,,#0042
 Taoba-57_fat-1-1,Taoba-57_fat-1,tsʰə³⁵,153,false,expert,Sims2020,,,,#0042
@@ -1008,32 +1007,32 @@ Wadu-93_hemp-1-1,Wadu-93_hemp-1,sǔ,156,false,expert,Sims2020,,,,
 Dayang-93_hemp-1-1,Dayang-93_hemp-1,sɑ̌w,156,false,expert,Sims2020,,,,
 Lanping-93_hemp-1-1,Lanping-93_hemp-1,sɑu¹³,156,false,expert,Sims2020,,,,
 Jiulong-93_hemp-1-1,Jiulong-93_hemp-1,so³⁵,156,false,expert,Sims2020,,,,
-Mianchi-190_snivel-1-1,Mianchi-190_snivel-1,nə̀,159,false,expert,Sims2020,,,,
-Niuwozi-190_snivel-1-1,Niuwozi-190_snivel-1,n̥̥ɑ̃ᴿ,159,false,expert,Sims2020,,,,
-Dayang-191_snot-1-1,Dayang-191_snot-1,n̥æ̃̌,159,false,expert,Sims2020,,,,
-Longxi-252_write-1-1,Longxi-252_write-1,"ɹà,",171,false,expert,Sims2020,,,,#0096
-Mianchi-252_write-1-1,Mianchi-252_write-1,ɕà,171,false,expert,Sims2020,,,,#0096
-Wadu-252_write-1-1,Wadu-252_write-1,ɖʉ̌,171,false,expert,Sims2020,,,,#0096
-Niuwozi-252_write-1-1,Niuwozi-252_write-1,dʐʉᴿ,171,false,expert,Sims2020,,,,#0096
+Mianchi-189_snivel-1-1,Mianchi-189_snivel-1,nə̀,159,false,expert,Sims2020,,,,
+Niuwozi-189_snivel-1-1,Niuwozi-189_snivel-1,n̥̥ɑ̃ᴿ,159,false,expert,Sims2020,,,,
+Dayang-190_snot-1-1,Dayang-190_snot-1,n̥æ̃̌,159,false,expert,Sims2020,,,,
+Longxi-251_write-1-1,Longxi-251_write-1,"ɹà,",171,false,expert,Sims2020,,,,#0096
+Mianchi-251_write-1-1,Mianchi-251_write-1,ɕà,171,false,expert,Sims2020,,,,#0096
+Wadu-251_write-1-1,Wadu-251_write-1,ɖʉ̌,171,false,expert,Sims2020,,,,#0096
+Niuwozi-251_write-1-1,Niuwozi-251_write-1,dʐʉᴿ,171,false,expert,Sims2020,,,,#0096
 Longxi-28_circle-1-1,Longxi-28_circle-1,zɨ̀ ʑé,172,false,expert,Sims2020,,,,
 Taoba-28_circle-1-1,Taoba-28_circle-1,rua⁵⁵ mə⁵³,172,false,expert,Sims2020,,,,
 Qinghua-28_circle-1-1,Qinghua-28_circle-1,ʐuɐ¹³ ʐuɐ¹³,172,false,expert,Sims2020,,,,
 Lanping-28_circle-1-1,Lanping-28_circle-1,ʐuɐ¹³ ʐuɐ¹³,172,false,expert,Sims2020,,,,
 Jiulong-28_circle-1-1,Jiulong-28_circle-1,ʐu¹¹ ʐuə⁵⁵,172,false,expert,Sims2020,,,,
-Longxi-205_sticky-1-1,Longxi-205_sticky-1,zà,174,false,expert,Sims2020,,,,
-Mianchi-205_sticky-1-1,Mianchi-205_sticky-1,pià dzà,174,false,expert,Sims2020,,,,
-Taoba-219_thicksticky-1-1,Taoba-219_thicksticky-1,dzu³⁵ mə⁵³,174,false,expert,Sims2020,,,,
-Qinghua-219_thicksticky-1-1,Qinghua-219_thicksticky-1,dzy¹³,174,false,expert,Sims2020,,,,
-Lanping-206_stickyglutinous-1-1,Lanping-206_stickyglutinous-1,dʑa¹³ ti⁵⁵,174,false,expert,Sims2020,,,,
-Jiulong-219_thicksticky-1-1,Jiulong-219_thicksticky-1,dzu³⁵,174,false,expert,Sims2020,,,,
+Longxi-204_sticky-1-1,Longxi-204_sticky-1,zà,174,false,expert,Sims2020,,,,
+Mianchi-204_sticky-1-1,Mianchi-204_sticky-1,pià dzà,174,false,expert,Sims2020,,,,
+Taoba-218_thicksticky-1-1,Taoba-218_thicksticky-1,dzu³⁵ mə⁵³,174,false,expert,Sims2020,,,,
+Qinghua-218_thicksticky-1-1,Qinghua-218_thicksticky-1,dzy¹³,174,false,expert,Sims2020,,,,
+Lanping-205_stickyglutinous-1-1,Lanping-205_stickyglutinous-1,dʑa¹³ ti⁵⁵,174,false,expert,Sims2020,,,,
+Jiulong-218_thicksticky-1-1,Jiulong-218_thicksticky-1,dzu³⁵,174,false,expert,Sims2020,,,,
 Yonghe-121_melt-1-1,Yonghe-121_melt-1,dʐə̌,175,false,expert,Sims2020,,,,#5438
 Wadu-121_melt-1-1,Wadu-121_melt-1,ɖʐæ̌,175,false,expert,Sims2020,,,,#5438
-Longxi-146_penis-1-1,Longxi-146_penis-1,lià qə̀,176,false,expert,Sims2020,,,,#1248
-Mianchi-146_penis-1-1,Mianchi-146_penis-1,lià qɛ̀,176,false,expert,Sims2020,,,,#1248
-Yonghe-146_penis-1-1,Yonghe-146_penis-1,lǐ,176,false,expert,Sims2020,,,,#1248
-Dayang-217_testicle-1-1,Dayang-217_testicle-1,lɒ̀ dɒ̌,176,false,expert,Sims2020,,,,#1248
-Longxi-163_returntoaplace-1-1,Longxi-163_returntoaplace-1,lò,178,false,expert,Sims2020,,,,
-Lanping-162_return-1-1,Lanping-162_return-1,xə¹³ lo¹³,178,false,expert,Sims2020,,,,
+Longxi-145_penis-1-1,Longxi-145_penis-1,lià qə̀,176,false,expert,Sims2020,,,,#1248
+Mianchi-145_penis-1-1,Mianchi-145_penis-1,lià qɛ̀,176,false,expert,Sims2020,,,,#1248
+Yonghe-145_penis-1-1,Yonghe-145_penis-1,lǐ,176,false,expert,Sims2020,,,,#1248
+Dayang-216_testicle-1-1,Dayang-216_testicle-1,lɒ̀ dɒ̌,176,false,expert,Sims2020,,,,#1248
+Longxi-162_returntoaplace-1-1,Longxi-162_returntoaplace-1,lò,178,false,expert,Sims2020,,,,
+Lanping-161_return-1-1,Lanping-161_return-1,xə¹³ lo¹³,178,false,expert,Sims2020,,,,
 Longxi-35_corpse-1-1,Longxi-35_corpse-1,mó,187,false,expert,Sims2020,,,,#0017
 Mianchi-35_corpse-1-1,Mianchi-35_corpse-1,mó,187,false,expert,Sims2020,,,,#0017
 Yonghe-35_corpse-1-1,Yonghe-35_corpse-1,mì múʴ,187,false,expert,Sims2020,,,,#0017
@@ -1041,13 +1040,13 @@ Wadu-35_corpse-1-1,Wadu-35_corpse-1,mǔ,187,false,expert,Sims2020,,,,#0017
 Niuwozi-35_corpse-1-1,Niuwozi-35_corpse-1,muᴿ,187,false,expert,Sims2020,,,,#0017
 Lanping-35_corpse-1-1,Lanping-35_corpse-1,ȵi⁵⁵ mu⁵⁵,187,false,expert,Sims2020,,,,#0017
 Jiulong-35_corpse-1-1,Jiulong-35_corpse-1,mi³⁵ mũ⁵⁵,187,false,expert,Sims2020,,,,#0017
-Longxi-186_sleep-1-1,Longxi-186_sleep-1,mà zè,196,false,expert,Sims2020,,,,#0127
-Mianchi-132_nodoff-1-1,Mianchi-132_nodoff-1,mɛ̀ ʑɛ̀ -qɛ̀ tuá,196,false,expert,Sims2020,,,,#0127
-Wadu-186_sleep-1-1,Wadu-186_sleep-1,ʑə̌,196,false,expert,Sims2020,,,,#0127
-Taoba-186_sleep-1-1,Taoba-186_sleep-1,kʰə³⁵ ʑi³⁵,196,false,expert,Sims2020,,,,#0127
-Qinghua-186_sleep-1-1,Qinghua-186_sleep-1,nə¹³ ʒə¹³,196,false,expert,Sims2020,,,,#0127
-Lanping-186_sleep-1-1,Lanping-186_sleep-1,nə¹³ ʒə¹³,196,false,expert,Sims2020,,,,#0127
-Jiulong-186_sleep-1-1,Jiulong-186_sleep-1,kʰɯ¹¹ ʑɯ⁵⁵,196,false,expert,Sims2020,,,,#0127
+Longxi-185_sleep-1-1,Longxi-185_sleep-1,mà zè,196,false,expert,Sims2020,,,,#0127
+Mianchi-131_nodoff-1-1,Mianchi-131_nodoff-1,mɛ̀ ʑɛ̀ -qɛ̀ tuá,196,false,expert,Sims2020,,,,#0127
+Wadu-185_sleep-1-1,Wadu-185_sleep-1,ʑə̌,196,false,expert,Sims2020,,,,#0127
+Taoba-185_sleep-1-1,Taoba-185_sleep-1,kʰə³⁵ ʑi³⁵,196,false,expert,Sims2020,,,,#0127
+Qinghua-185_sleep-1-1,Qinghua-185_sleep-1,nə¹³ ʒə¹³,196,false,expert,Sims2020,,,,#0127
+Lanping-185_sleep-1-1,Lanping-185_sleep-1,nə¹³ ʒə¹³,196,false,expert,Sims2020,,,,#0127
+Jiulong-185_sleep-1-1,Jiulong-185_sleep-1,kʰɯ¹¹ ʑɯ⁵⁵,196,false,expert,Sims2020,,,,#0127
 Longxi-94_hideself-1-1,Longxi-94_hideself-1,pià,202,false,expert,Sims2020,,,,#2550
 Niuwozi-2_axe-1-1,Niuwozi-2_axe-1,pɨᶠ,203,false,expert,Sims2020,,,,#2772
 Dayang-2_axe-1-1,Dayang-2_axe-1,ɸpɨ́,203,false,expert,Sims2020,,,,#2772

@@ -3,6 +3,7 @@
     "title": "CLDF dataset derived from Sims' \"Diachrony of Tone in Proto-Rma\" from 2020",
     "description": null,
     "license": "CC-BY-4.0",
+    "conceptlist": "Sims-2020-253",
     "url": "http://hdl.handle.net/10524/52460",
     "citation": "Sims, Nathanial A. (2020): Reconsidering the diachrony of tone in Rma. Journal of the Southeast Asian Linguistics Society 13.1. 53-85."
 }
