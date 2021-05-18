@@ -35,7 +35,8 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
             first_form_only=True,
             missing_data=['NA'],
-            separators = '~'
+            separators = '~',
+            replacements=[(" -", "-"), (" - ", "-")]
             )
 
     def cmd_makecldf(self, args):
@@ -43,17 +44,17 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         # TODO: add concepts with `add_concepts`
         concepts = {}
-        for concept in self.concepts:
-            idx = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
             args.writer.add_concept(
                 ID=idx,
-                Name=concept['ENGLISH'],
-                Number=concept['NUMBER'],
-                Variants=concept['VARIANTS'],
+                Name=concept.english,
+                Number=concept.english,
+                Variants=concept.attributes["lexibank_gloss"],
             )
-            for variant in concept['VARIANTS'].split('//'):
+            for variant in concept.attributes["lexibank_gloss"]:
                 concepts[variant] = idx
-            concepts[concept['ENGLISH']] = idx
+            concepts[concept.english] = idx
         
         languages = args.writer.add_languages(lookup_factory="Name")
         for i, row in progressbar(enumerate(data)):

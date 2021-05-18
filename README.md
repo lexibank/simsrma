@@ -8,6 +8,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://hdl.handle.net/10524/52460
 
+
+Conceptlists in Concepticon:
+- [Sims-2020-253](https://concepticon.clld.org/contributions/Sims-2020-253)
 ## Statistics
 
 
@@ -19,13 +22,22 @@ Available online at http://hdl.handle.net/10524/52460
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 11
-- **Concepts:** 235
-- **Lexemes:** 1,056
+- **Concepts:** 233
+- **Lexemes:** 1,055
 - **Sources:** 1
 - **Synonymy:** 1.00
-- **Cognacy:** 1,056 cognates in 185 cognate sets (15 singletons)
+- **Cognacy:** 1,055 cognates in 185 cognate sets (15 singletons)
 - **Cognate Diversity:** -0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 4,489
+- **Tokens:** 4,475
 - **Segments:** 180 (0 BIPA errors, 0 CTLS sound class errors, 180 CLTS modified)
 - **Inventory size (avg):** 63.18
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | dataset patron | Other 
+Nathaniel Sims | | original fieldwork| Author
+
+

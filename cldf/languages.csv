@@ -1,12 +1,12 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Taoping,Taoping,taop1238,,,,,,Sino-Tibetan
-Longxi,Longxi,long1374,,,,,,Sino-Tibetan
-Mianchi,Mianchi,mian1253,,,,,,Sino-Tibetan
-Yonghe,Yonghe,yong1287,,,,,,Sino-Tibetan
-Wadu,Wadu,nort2723,,,,,,Sino-Tibetan
-Niuwozi,Niuwozi,sout2729,,,,,,Sino-Tibetan
-Dayang,Dayang,daya1246,,,,,,Sino-Tibetan
-Taoba,Taoba,taob1239,,,,,,Sino-Tibetan
-Qinghua,Qinghua,qing1238,,,,,,Sino-Tibetan
-Lanping,Lanping,sout2729,,,,,,Sino-Tibetan
-Jiulong,Jiulong,sout2729,,,,,,Sino-Tibetan
+Taoping,Taoping,taop1238,Taoping Qiang,,Eurasia,,,Sino-Tibetan
+Longxi,Longxi,long1374,Longxi Qiang,,Eurasia,,,Sino-Tibetan
+Mianchi,Mianchi,mian1253,Mianchi Qiang,,Eurasia,,,Sino-Tibetan
+Yonghe,Yonghe,yong1287,Yonghe Qiang,,Eurasia,,,Sino-Tibetan
+Wadu,Wadu,nort2723,Northern Pumi,pmi,Eurasia,28.6626,101.305,Sino-Tibetan
+Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Eurasia,27.8408,100.622,Sino-Tibetan
+Dayang,Dayang,daya1246,Dayang Pumi,,Eurasia,,,Sino-Tibetan
+Taoba,Taoba,taob1239,Táobā,,Eurasia,,,Sino-Tibetan
+Qinghua,Qinghua,qing1238,Qinghua Pumi,,Eurasia,,,Sino-Tibetan
+Lanping,Lanping,sout2729,Southern Pumi,pmj,Eurasia,27.8408,100.622,Sino-Tibetan
+Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Eurasia,27.8408,100.622,Sino-Tibetan
