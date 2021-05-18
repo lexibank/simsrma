@@ -6033,7 +6033,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 15,
+                "+": 14,
                 "H/\u029c": 3,
                 "L/l": 2,
                 "a": 1,
@@ -6736,16 +6736,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Wadu-133_obstruct-1",
-                "Wadu",
-                "133_obstruct",
-                "\u0250\u0300- \u0290wi\u0303\u0301",
-                "\u0250\u0300/\u0250 + + \u0290 w \u0129\u0301/\u0129"
-            ]
-        ],
-        "bad_words_count": 1,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -7295,7 +7287,7 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 374,
+            "+": 373,
             "H/\u029c": 3,
             "L/l": 2,
             "N/n": 2,
