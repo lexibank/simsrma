@@ -1,8 +1,16 @@
 # CLDF dataset derived from Sims' "Diachrony of Tone in Proto-Rma" from 2020
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/simsrma/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/simsrma/actions?query=workflow%3ACLDF-validation)
 
-> Sims, Nathanial A. (2020): Reconsidering the diachrony of tone in Rma. Journal of the Southeast Asian Linguistics Society 13.1. 53-85.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Sims, Nathanial A. (2020): Reconsidering the diachrony of tone in Rma. Journal of the Southeast Asian Linguistics Society 13.1. 53-85.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -14,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/simsrma.svg?branch=master)](https://travis-ci.org/lexibank/simsrma)
+[![CLDF validation](https://github.com/lexibank/simsrma/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/simsrma/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -41,3 +49,10 @@ Johann-Mattis List | @LinguList | dataset patron | Other
 Nathaniel Sims | | original fieldwork| Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
