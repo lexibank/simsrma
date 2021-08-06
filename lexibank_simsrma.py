@@ -35,7 +35,7 @@ class Dataset(BaseDataset):
             first_form_only=True,
             missing_data=['NA'],
             separators = '~',
-            replacements=[(" - ", "-"), (" -", "-")]
+            replacements=[(" - ", "-"), (" -", "-"), (" ", "_")]
             )
 
     def cmd_makecldf(self, args):
