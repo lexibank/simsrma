@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/simsrma",
             "rdf:type": "prov:Entity",
-            "dc:created": "862adb5",
+            "dc:created": "b3a47b4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
@@ -35,7 +35,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -221,6 +221,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [

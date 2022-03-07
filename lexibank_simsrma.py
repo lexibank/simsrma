@@ -17,6 +17,7 @@ class CustomConcept(Concept):
 @attr.s
 class CustomLanguage(Language):
     Family = attr.ib(default="Sino-Tibetan")
+    SubGroup = attr.ib(default=None)
 
 
 @attr.s
