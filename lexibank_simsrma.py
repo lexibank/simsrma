@@ -28,34 +28,39 @@ class CustomCognate(Cognate):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "simsrma"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
-    
+
     form_spec = FormSpec(
-            first_form_only=True,
-            missing_data=['NA'],
-            separators = '~',
-            replacements=[(" - ", "-"), (" -", "-"), (" ", "_")]
-            )
+        first_form_only=True,
+        missing_data=["NA"],
+        separators="~",
+        replacements=[(" - ", "-"), (" -", "-"), (" ", "_")],
+    )
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("data.tsv", delimiter="\t", dicts=True)
         args.writer.add_sources()
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
+            idx = "{0}_{1}".format(concept.number, slug(concept.english))
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
                 Number=concept.english,
                 Variants=concept.attributes["lexibank_gloss"],
             )
             for variant in concept.attributes["lexibank_gloss"]:
                 concepts[variant] = idx
             concepts[concept.english] = idx
-        
-        languages = args.writer.add_languages(lookup_factory="Name")
+
+
+        args.writer.add_languages(lookup_factory="Name")
         # Only instance where the variant is switched, so we fix that manually.
         concepts["duck²⁹"] = "51_duck"
 
@@ -66,6 +71,7 @@ class Dataset(BaseDataset):
                     if not entry:
                         entry = row.get(language["Name"] + "_form")
                     concept = concepts.get(row.get(language["Name"] + "_gloss"))
+
                     if entry and concept and entry not in ["NA"] and concept not in ["NA"]:
                         cogset = args.writer.add_forms_from_value(
                             Language_ID=language["Name"],
