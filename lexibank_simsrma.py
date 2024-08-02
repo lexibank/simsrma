@@ -28,23 +28,25 @@ class CustomCognate(Cognate):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "simsrma"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
-    
+
     form_spec = FormSpec(
-            first_form_only=True,
-            missing_data=['NA'],
-            separators = '~',
-            replacements=[(" - ", "-"), (" -", "-"), (" ", "_")]
-            )
+        first_form_only=True,
+        missing_data=["NA"],
+        separators="~",
+        replacements=[(" - ", "-"), (" -", "-"), (" ", "_")],
+    )
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("data.tsv", delimiter="\t", dicts=True)
         args.writer.add_sources()
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
+            idx = "{0}_{1}".format(concept.number, slug(concept.english))
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
@@ -54,7 +56,7 @@ class Dataset(BaseDataset):
             for variant in concept.attributes["lexibank_gloss"]:
                 concepts[variant] = idx
             concepts[concept.english] = idx
-        
+
         languages = args.writer.add_languages(lookup_factory="Name")
         # Only instance where the variant is switched, so we fix that manually.
         concepts["duck²⁹"] = "51_duck"

@@ -2,5 +2,5 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | dataset patron | Other 
+Johann-Mattis List | @LinguList | dataset patron | Editor
 Nathaniel Sims | | original fieldwork| Author

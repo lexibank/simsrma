@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -12,12 +12,13 @@ setup(
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
     py_modules=["lexibank_simsrma"],
+    packages=find_packages(where="."),
     include_package_data=True,
     zip_safe=False,
     entry_points={
         "lexibank.dataset": ["simsrma=lexibank_simsrma:Dataset"],
         "cldfbench.commands": ["simsrma=simsrmacommands"]
         },
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
