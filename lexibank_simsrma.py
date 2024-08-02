@@ -50,6 +50,8 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
                 Number=concept.english,
                 Variants=concept.attributes["lexibank_gloss"],
             )
@@ -57,7 +59,8 @@ class Dataset(BaseDataset):
                 concepts[variant] = idx
             concepts[concept.english] = idx
 
-        languages = args.writer.add_languages(lookup_factory="Name")
+
+        args.writer.add_languages(lookup_factory="Name")
         # Only instance where the variant is switched, so we fix that manually.
         concepts["duck²⁹"] = "51_duck"
 
@@ -68,6 +71,7 @@ class Dataset(BaseDataset):
                     if not entry:
                         entry = row.get(language["Name"] + "_form")
                     concept = concepts.get(row.get(language["Name"] + "_gloss"))
+
                     if entry and concept and entry not in ["NA"] and concept not in ["NA"]:
                         cogset = args.writer.add_forms_from_value(
                             Language_ID=language["Name"],

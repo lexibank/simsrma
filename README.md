@@ -24,13 +24,13 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/simsrma/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/simsrma/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 11 (linked to 9 different Glottocodes)
-- **Concepts:** 233 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 233 (linked to 190 different Concepticon concept sets)
 - **Lexemes:** 1,055
 - **Sources:** 1
 - **Synonymy:** 1.00
